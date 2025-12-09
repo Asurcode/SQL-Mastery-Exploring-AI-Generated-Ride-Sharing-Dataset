@@ -1,0 +1,1001 @@
+trip_id,request_time,pickup_zone,dropoff_zone,fare,status,driver_id,rider_id
+1,2025-10-13 00:17:00,Toul Kork,Daun Penh,7.66,completed,71,58
+2,2025-10-13 14:21:00,Chamkarmon,Sen Sok,7.84,cancelled_by_driver,81,180
+3,2025-10-13 13:34:00,Chamkarmon,Daun Penh,6.24,completed,39,20
+4,2025-10-13 17:11:00,Chamkarmon,Toul Kork,6.47,completed,36,255
+5,2025-10-13 14:22:00,Russey Keo,Toul Kork,2.64,completed,40,38
+6,2025-10-13 19:50:00,Sen Sok,Toul Kork,5.27,completed,45,148
+7,2025-10-13 23:01:00,Russey Keo,Chamkarmon,5.33,completed,4,25
+8,2025-10-13 08:13:00,Daun Penh,Chamkarmon,9.65,cancelled_by_driver,25,121
+9,2025-10-13 05:27:00,Chamkarmon,Russey Keo,5.16,cancelled_by_driver,69,26
+10,2025-10-13 10:09:00,Daun Penh,Russey Keo,6.17,cancelled_by_driver,30,169
+11,2025-10-13 06:54:00,Toul Kork,Russey Keo,6.03,completed,76,225
+12,2025-10-13 14:45:00,Toul Kork,Chamkarmon,6.91,cancelled_by_driver,68,1
+13,2025-10-13 21:53:00,Russey Keo,Chamkarmon,7.86,completed,88,261
+14,2025-10-13 03:20:00,Sen Sok,Russey Keo,3.41,completed,29,13
+15,2025-10-13 02:25:00,Daun Penh,Russey Keo,5.99,completed,73,48
+16,2025-10-13 06:08:00,Sen Sok,Sen Sok,8.52,completed,68,291
+17,2025-10-13 17:25:00,Russey Keo,Russey Keo,5.44,completed,51,94
+18,2025-10-13 14:13:00,Toul Kork,Sen Sok,3.87,completed,24,261
+19,2025-10-13 02:27:00,Sen Sok,Daun Penh,7.07,completed,14,278
+20,2025-10-13 22:03:00,Sen Sok,Chamkarmon,8.5,completed,69,205
+21,2025-10-13 18:57:00,Toul Kork,Russey Keo,2.04,completed,18,185
+22,2025-10-13 00:33:00,Daun Penh,Chamkarmon,8.1,cancelled_by_driver,42,175
+23,2025-10-13 15:37:00,Toul Kork,Chamkarmon,8.48,cancelled_by_user,57,69
+24,2025-10-13 18:30:00,Sen Sok,Chamkarmon,5.42,cancelled_by_driver,83,104
+25,2025-10-13 08:59:00,Daun Penh,Daun Penh,9.86,completed,12,246
+26,2025-10-13 01:39:00,Daun Penh,Toul Kork,8.19,completed,82,161
+27,2025-10-13 01:51:00,Toul Kork,Russey Keo,8.08,completed,17,200
+28,2025-10-13 02:30:00,Sen Sok,Toul Kork,7.86,completed,30,216
+29,2025-10-13 20:10:00,Russey Keo,Toul Kork,2.78,completed,88,212
+30,2025-10-13 21:51:00,Sen Sok,Toul Kork,3.35,completed,75,16
+31,2025-10-13 02:56:00,Chamkarmon,Chamkarmon,5.44,completed,99,205
+32,2025-10-13 05:39:00,Russey Keo,Sen Sok,3.74,cancelled_by_user,23,39
+33,2025-10-13 03:58:00,Daun Penh,Chamkarmon,5.03,completed,81,89
+34,2025-10-13 04:28:00,Russey Keo,Chamkarmon,9.05,completed,1,256
+35,2025-10-13 20:05:00,Daun Penh,Toul Kork,8.51,completed,79,254
+36,2025-10-13 07:58:00,Daun Penh,Chamkarmon,6.86,cancelled_by_user,32,216
+37,2025-10-13 07:28:00,Russey Keo,Toul Kork,8.79,cancelled_by_driver,9,172
+38,2025-10-13 05:27:00,Daun Penh,Sen Sok,8.16,cancelled_by_driver,15,137
+39,2025-10-13 14:35:00,Daun Penh,Russey Keo,5.15,cancelled_by_user,28,178
+40,2025-10-13 09:06:00,Chamkarmon,Toul Kork,3.21,completed,24,77
+41,2025-10-13 17:51:00,Sen Sok,Sen Sok,5.87,completed,60,188
+42,2025-10-13 04:56:00,Sen Sok,Russey Keo,7.76,completed,35,15
+43,2025-10-13 18:54:00,Chamkarmon,Daun Penh,5.21,completed,86,292
+44,2025-10-13 14:29:00,Russey Keo,Toul Kork,7.17,completed,27,214
+45,2025-10-13 02:44:00,Toul Kork,Toul Kork,2.3,completed,83,208
+46,2025-10-13 09:56:00,Toul Kork,Daun Penh,7.86,cancelled_by_user,76,169
+47,2025-10-13 20:43:00,Toul Kork,Daun Penh,8.41,cancelled_by_user,20,280
+48,2025-10-13 22:09:00,Chamkarmon,Toul Kork,7.51,cancelled_by_driver,65,146
+49,2025-10-13 11:10:00,Chamkarmon,Daun Penh,9.72,cancelled_by_driver,85,263
+50,2025-10-13 11:32:00,Daun Penh,Chamkarmon,8.53,completed,49,4
+51,2025-10-13 22:02:00,Toul Kork,Russey Keo,9.18,completed,1,90
+52,2025-10-13 14:05:00,Russey Keo,Russey Keo,9.44,completed,10,60
+53,2025-10-13 00:47:00,Russey Keo,Russey Keo,8.31,completed,47,16
+54,2025-10-13 21:54:00,Toul Kork,Chamkarmon,7.23,completed,59,227
+55,2025-10-13 05:57:00,Toul Kork,Daun Penh,1.55,completed,96,29
+56,2025-10-13 13:51:00,Toul Kork,Sen Sok,5.46,cancelled_by_user,62,151
+57,2025-10-13 03:58:00,Chamkarmon,Daun Penh,6.35,completed,86,245
+58,2025-10-13 00:48:00,Chamkarmon,Toul Kork,4.08,completed,18,270
+59,2025-10-13 07:28:00,Chamkarmon,Russey Keo,4.2,completed,46,79
+60,2025-10-13 18:43:00,Sen Sok,Daun Penh,9.67,completed,32,289
+61,2025-10-13 06:39:00,Russey Keo,Sen Sok,9.08,completed,27,153
+62,2025-10-13 05:16:00,Russey Keo,Toul Kork,8.72,completed,92,277
+63,2025-10-13 05:06:00,Daun Penh,Chamkarmon,4.95,cancelled_by_driver,18,279
+64,2025-10-13 12:21:00,Chamkarmon,Chamkarmon,1.62,completed,39,57
+65,2025-10-13 23:24:00,Sen Sok,Sen Sok,2.18,completed,49,186
+66,2025-10-13 11:00:00,Sen Sok,Toul Kork,4.15,completed,93,93
+67,2025-10-13 13:22:00,Russey Keo,Russey Keo,1.63,completed,82,276
+68,2025-10-13 20:39:00,Chamkarmon,Daun Penh,1.65,cancelled_by_user,44,158
+69,2025-10-13 12:50:00,Daun Penh,Toul Kork,9.29,completed,72,275
+70,2025-10-13 04:25:00,Chamkarmon,Chamkarmon,7.5,cancelled_by_user,54,181
+71,2025-10-13 07:11:00,Toul Kork,Sen Sok,4.13,completed,95,77
+72,2025-10-13 07:26:00,Chamkarmon,Sen Sok,2.63,cancelled_by_user,34,151
+73,2025-10-13 09:32:00,Toul Kork,Daun Penh,5.85,completed,71,238
+74,2025-10-13 10:14:00,Toul Kork,Sen Sok,1.55,completed,36,289
+75,2025-10-13 19:11:00,Daun Penh,Sen Sok,9.48,completed,18,231
+76,2025-10-13 08:23:00,Russey Keo,Toul Kork,5.03,completed,38,18
+77,2025-10-13 11:14:00,Chamkarmon,Russey Keo,4.92,completed,59,73
+78,2025-10-13 14:59:00,Toul Kork,Daun Penh,4.82,completed,9,189
+79,2025-10-13 09:03:00,Chamkarmon,Toul Kork,2.09,completed,73,17
+80,2025-10-13 20:04:00,Russey Keo,Russey Keo,6.93,completed,72,19
+81,2025-10-13 14:05:00,Russey Keo,Toul Kork,7.73,completed,51,219
+82,2025-10-13 07:03:00,Sen Sok,Toul Kork,7.25,cancelled_by_driver,35,120
+83,2025-10-13 17:08:00,Russey Keo,Sen Sok,2.68,completed,82,101
+84,2025-10-13 12:39:00,Daun Penh,Russey Keo,6.42,completed,5,34
+85,2025-10-13 12:49:00,Toul Kork,Daun Penh,6.34,completed,14,84
+86,2025-10-13 11:32:00,Sen Sok,Daun Penh,8.88,cancelled_by_driver,92,196
+87,2025-10-13 11:55:00,Daun Penh,Russey Keo,4.72,completed,30,202
+88,2025-10-13 18:22:00,Chamkarmon,Sen Sok,4.66,completed,4,11
+89,2025-10-13 02:28:00,Toul Kork,Chamkarmon,6.76,cancelled_by_user,39,218
+90,2025-10-13 08:01:00,Russey Keo,Toul Kork,6.88,completed,84,253
+91,2025-10-13 01:48:00,Toul Kork,Sen Sok,5.49,completed,64,222
+92,2025-10-13 18:04:00,Chamkarmon,Russey Keo,5.27,completed,25,80
+93,2025-10-13 06:32:00,Sen Sok,Toul Kork,5.7,completed,28,7
+94,2025-10-13 21:32:00,Sen Sok,Daun Penh,8.82,completed,76,272
+95,2025-10-13 12:38:00,Sen Sok,Chamkarmon,5.42,completed,66,227
+96,2025-10-13 19:13:00,Russey Keo,Daun Penh,9.49,completed,78,16
+97,2025-10-13 23:29:00,Daun Penh,Russey Keo,5.78,cancelled_by_driver,22,12
+98,2025-10-13 20:09:00,Daun Penh,Toul Kork,9.57,completed,31,291
+99,2025-10-13 20:48:00,Toul Kork,Russey Keo,8.58,completed,23,241
+100,2025-10-13 09:47:00,Russey Keo,Toul Kork,4.58,completed,48,21
+101,2025-10-13 13:14:00,Sen Sok,Sen Sok,8.84,completed,20,178
+102,2025-10-13 06:05:00,Sen Sok,Chamkarmon,2.44,completed,38,228
+103,2025-10-13 04:42:00,Chamkarmon,Sen Sok,9.36,completed,55,273
+104,2025-10-13 12:07:00,Chamkarmon,Sen Sok,6.87,cancelled_by_user,68,288
+105,2025-10-13 14:16:00,Sen Sok,Russey Keo,1.96,cancelled_by_driver,79,297
+106,2025-10-13 08:08:00,Sen Sok,Chamkarmon,6.98,completed,88,134
+107,2025-10-13 13:39:00,Russey Keo,Toul Kork,9.78,completed,89,283
+108,2025-10-13 21:17:00,Daun Penh,Toul Kork,2.09,completed,1,153
+109,2025-10-13 13:21:00,Chamkarmon,Daun Penh,6.21,completed,7,66
+110,2025-10-13 17:17:00,Daun Penh,Toul Kork,7.86,completed,57,137
+111,2025-10-13 19:19:00,Russey Keo,Russey Keo,8.39,completed,95,92
+112,2025-10-13 23:43:00,Sen Sok,Sen Sok,5.02,completed,12,259
+113,2025-10-13 14:28:00,Daun Penh,Sen Sok,3.24,cancelled_by_driver,5,103
+114,2025-10-13 19:21:00,Sen Sok,Sen Sok,1.86,cancelled_by_user,50,55
+115,2025-10-13 23:06:00,Sen Sok,Chamkarmon,6.43,completed,42,257
+116,2025-10-13 22:39:00,Toul Kork,Toul Kork,5.35,completed,12,101
+117,2025-10-13 03:23:00,Daun Penh,Russey Keo,9.56,completed,18,198
+118,2025-10-13 09:45:00,Daun Penh,Chamkarmon,2.02,completed,66,226
+119,2025-10-13 07:46:00,Sen Sok,Daun Penh,7.33,completed,74,237
+120,2025-10-13 02:05:00,Russey Keo,Russey Keo,1.71,completed,79,26
+121,2025-10-13 15:11:00,Toul Kork,Russey Keo,2.96,completed,94,121
+122,2025-10-13 17:39:00,Sen Sok,Russey Keo,5.36,completed,17,182
+123,2025-10-13 20:21:00,Chamkarmon,Sen Sok,5.37,completed,68,199
+124,2025-10-13 02:56:00,Chamkarmon,Russey Keo,7.33,completed,71,255
+125,2025-10-13 21:02:00,Toul Kork,Toul Kork,9.24,completed,62,122
+126,2025-10-13 15:25:00,Russey Keo,Russey Keo,6.93,cancelled_by_user,41,31
+127,2025-10-13 16:53:00,Sen Sok,Sen Sok,9.61,completed,95,285
+128,2025-10-13 21:51:00,Daun Penh,Russey Keo,8.99,completed,34,106
+129,2025-10-13 14:59:00,Toul Kork,Daun Penh,6.47,completed,70,224
+130,2025-10-13 08:03:00,Russey Keo,Daun Penh,8.59,completed,45,273
+131,2025-10-13 19:48:00,Daun Penh,Sen Sok,6.96,completed,58,232
+132,2025-10-13 08:42:00,Chamkarmon,Toul Kork,2.17,completed,51,256
+133,2025-10-13 00:49:00,Chamkarmon,Toul Kork,7.79,completed,34,24
+134,2025-10-13 19:56:00,Daun Penh,Chamkarmon,2.31,cancelled_by_driver,44,109
+135,2025-10-13 08:17:00,Toul Kork,Sen Sok,6.55,completed,15,191
+136,2025-10-13 18:34:00,Chamkarmon,Russey Keo,7.47,completed,78,25
+137,2025-10-13 08:42:00,Sen Sok,Sen Sok,2.07,completed,70,187
+138,2025-10-13 20:39:00,Daun Penh,Chamkarmon,3.46,completed,50,288
+139,2025-10-13 05:16:00,Daun Penh,Sen Sok,9.28,completed,32,116
+140,2025-10-13 23:23:00,Chamkarmon,Sen Sok,6.74,completed,67,37
+141,2025-10-13 18:42:00,Toul Kork,Chamkarmon,3.59,completed,3,282
+142,2025-10-13 02:44:00,Sen Sok,Toul Kork,7.37,completed,86,137
+143,2025-10-13 13:34:00,Toul Kork,Russey Keo,6.57,completed,86,227
+144,2025-10-13 23:38:00,Russey Keo,Chamkarmon,5.76,completed,74,182
+145,2025-10-13 11:18:00,Russey Keo,Daun Penh,9.8,completed,51,86
+146,2025-10-13 04:22:00,Chamkarmon,Toul Kork,7.31,completed,67,53
+147,2025-10-13 11:38:00,Chamkarmon,Daun Penh,4.69,cancelled_by_user,76,235
+148,2025-10-13 12:17:00,Chamkarmon,Toul Kork,8.3,completed,93,267
+149,2025-10-13 17:48:00,Russey Keo,Russey Keo,9.02,completed,48,287
+150,2025-10-13 16:46:00,Toul Kork,Russey Keo,2.56,completed,17,100
+151,2025-10-13 09:39:00,Toul Kork,Sen Sok,3.2,completed,7,87
+152,2025-10-13 05:13:00,Chamkarmon,Daun Penh,3.34,completed,13,15
+153,2025-10-13 15:28:00,Sen Sok,Toul Kork,7.38,cancelled_by_user,66,101
+154,2025-10-13 10:07:00,Toul Kork,Russey Keo,6.63,completed,4,165
+155,2025-10-13 03:10:00,Russey Keo,Chamkarmon,6.76,completed,10,29
+156,2025-10-13 21:36:00,Daun Penh,Russey Keo,9.5,completed,88,114
+157,2025-10-13 16:35:00,Daun Penh,Chamkarmon,8.1,completed,17,107
+158,2025-10-13 16:23:00,Daun Penh,Toul Kork,2.59,completed,52,130
+159,2025-10-13 19:44:00,Sen Sok,Russey Keo,4.45,completed,6,84
+160,2025-10-13 12:42:00,Chamkarmon,Russey Keo,5.2,completed,83,271
+161,2025-10-13 19:33:00,Russey Keo,Toul Kork,4.87,completed,69,244
+162,2025-10-13 11:57:00,Sen Sok,Russey Keo,7.19,completed,96,214
+163,2025-10-13 01:36:00,Russey Keo,Chamkarmon,9.08,completed,74,166
+164,2025-10-13 09:43:00,Russey Keo,Russey Keo,4.1,completed,9,279
+165,2025-10-13 11:56:00,Chamkarmon,Daun Penh,6.19,completed,91,59
+166,2025-10-13 17:17:00,Daun Penh,Sen Sok,8.21,completed,77,90
+167,2025-10-13 02:33:00,Chamkarmon,Chamkarmon,5.04,completed,83,194
+168,2025-10-13 03:21:00,Sen Sok,Daun Penh,2.93,completed,21,123
+169,2025-10-13 06:19:00,Sen Sok,Toul Kork,5.54,completed,24,136
+170,2025-10-13 06:23:00,Sen Sok,Chamkarmon,1.97,completed,4,139
+171,2025-10-13 17:34:00,Chamkarmon,Sen Sok,9.51,completed,24,229
+172,2025-10-13 06:01:00,Russey Keo,Sen Sok,2.14,completed,59,274
+173,2025-10-13 15:11:00,Russey Keo,Toul Kork,5.23,cancelled_by_driver,99,50
+174,2025-10-13 11:51:00,Toul Kork,Toul Kork,6.0,completed,3,118
+175,2025-10-13 13:45:00,Sen Sok,Chamkarmon,9.88,completed,68,202
+176,2025-10-13 20:06:00,Russey Keo,Russey Keo,2.91,completed,40,191
+177,2025-10-13 09:42:00,Toul Kork,Toul Kork,2.47,completed,48,181
+178,2025-10-13 18:30:00,Russey Keo,Russey Keo,1.57,completed,54,78
+179,2025-10-13 10:07:00,Sen Sok,Daun Penh,2.82,completed,35,75
+180,2025-10-13 08:29:00,Daun Penh,Sen Sok,3.26,cancelled_by_driver,95,295
+181,2025-10-13 23:00:00,Sen Sok,Russey Keo,6.86,completed,56,281
+182,2025-10-13 04:25:00,Chamkarmon,Sen Sok,3.37,completed,89,21
+183,2025-10-13 02:10:00,Russey Keo,Russey Keo,1.67,completed,40,171
+184,2025-10-13 18:30:00,Russey Keo,Daun Penh,8.53,completed,77,15
+185,2025-10-13 01:38:00,Chamkarmon,Toul Kork,4.61,completed,68,211
+186,2025-10-13 20:05:00,Chamkarmon,Daun Penh,4.51,cancelled_by_driver,46,48
+187,2025-10-13 10:29:00,Daun Penh,Toul Kork,4.07,completed,78,86
+188,2025-10-13 21:58:00,Russey Keo,Toul Kork,9.79,completed,13,149
+189,2025-10-13 17:19:00,Russey Keo,Sen Sok,2.95,cancelled_by_driver,27,188
+190,2025-10-13 14:38:00,Daun Penh,Daun Penh,9.14,completed,6,151
+191,2025-10-13 22:47:00,Toul Kork,Russey Keo,8.1,completed,17,141
+192,2025-10-13 09:31:00,Daun Penh,Daun Penh,2.15,completed,36,69
+193,2025-10-13 22:53:00,Sen Sok,Sen Sok,9.89,completed,99,260
+194,2025-10-13 03:14:00,Russey Keo,Toul Kork,3.81,completed,81,9
+195,2025-10-13 11:36:00,Chamkarmon,Sen Sok,2.34,completed,2,121
+196,2025-10-13 06:28:00,Sen Sok,Chamkarmon,8.55,cancelled_by_driver,77,101
+197,2025-10-13 12:57:00,Russey Keo,Chamkarmon,7.51,completed,52,149
+198,2025-10-13 03:53:00,Daun Penh,Russey Keo,6.75,completed,66,146
+199,2025-10-13 20:11:00,Sen Sok,Sen Sok,2.83,completed,52,243
+200,2025-10-13 20:18:00,Russey Keo,Russey Keo,5.57,completed,92,241
+201,2025-10-13 22:55:00,Toul Kork,Russey Keo,8.13,completed,43,43
+202,2025-10-13 03:42:00,Toul Kork,Chamkarmon,4.08,completed,90,95
+203,2025-10-13 14:57:00,Chamkarmon,Russey Keo,4.15,completed,22,226
+204,2025-10-13 11:22:00,Russey Keo,Chamkarmon,1.53,cancelled_by_driver,55,6
+205,2025-10-13 08:15:00,Toul Kork,Toul Kork,2.98,cancelled_by_driver,67,214
+206,2025-10-13 08:26:00,Daun Penh,Sen Sok,8.94,cancelled_by_driver,99,206
+207,2025-10-13 09:54:00,Russey Keo,Russey Keo,5.25,completed,60,67
+208,2025-10-13 16:55:00,Daun Penh,Chamkarmon,9.87,completed,58,100
+209,2025-10-13 14:21:00,Daun Penh,Daun Penh,4.86,completed,12,12
+210,2025-10-13 11:01:00,Toul Kork,Russey Keo,7.58,completed,88,237
+211,2025-10-13 01:49:00,Russey Keo,Toul Kork,3.9,completed,69,258
+212,2025-10-13 01:51:00,Sen Sok,Toul Kork,4.59,completed,84,135
+213,2025-10-13 00:03:00,Toul Kork,Daun Penh,3.12,completed,39,222
+214,2025-10-13 23:13:00,Toul Kork,Chamkarmon,4.45,completed,13,156
+215,2025-10-13 00:07:00,Russey Keo,Russey Keo,6.15,completed,41,142
+216,2025-10-13 02:28:00,Russey Keo,Chamkarmon,9.93,cancelled_by_user,57,158
+217,2025-10-13 07:33:00,Daun Penh,Toul Kork,7.15,completed,53,262
+218,2025-10-13 19:22:00,Russey Keo,Chamkarmon,3.19,completed,12,283
+219,2025-10-13 23:05:00,Daun Penh,Toul Kork,1.88,completed,13,229
+220,2025-10-13 18:57:00,Toul Kork,Chamkarmon,2.57,completed,74,280
+221,2025-10-13 16:34:00,Chamkarmon,Daun Penh,6.28,cancelled_by_user,97,290
+222,2025-10-13 12:30:00,Sen Sok,Sen Sok,8.0,completed,57,168
+223,2025-10-13 02:04:00,Toul Kork,Daun Penh,9.49,completed,40,47
+224,2025-10-13 22:59:00,Russey Keo,Daun Penh,1.63,completed,80,203
+225,2025-10-13 18:12:00,Sen Sok,Sen Sok,5.94,cancelled_by_user,45,214
+226,2025-10-13 15:20:00,Chamkarmon,Sen Sok,5.5,completed,35,246
+227,2025-10-13 18:13:00,Chamkarmon,Russey Keo,7.08,cancelled_by_driver,3,24
+228,2025-10-13 17:22:00,Daun Penh,Russey Keo,6.26,completed,5,274
+229,2025-10-13 15:17:00,Sen Sok,Daun Penh,7.34,completed,90,44
+230,2025-10-13 23:32:00,Daun Penh,Daun Penh,7.09,completed,11,156
+231,2025-10-13 21:40:00,Toul Kork,Toul Kork,2.49,cancelled_by_driver,71,199
+232,2025-10-13 15:31:00,Sen Sok,Toul Kork,8.3,completed,56,162
+233,2025-10-13 16:38:00,Toul Kork,Russey Keo,2.55,completed,10,234
+234,2025-10-13 01:14:00,Daun Penh,Russey Keo,7.44,completed,34,163
+235,2025-10-13 16:04:00,Sen Sok,Toul Kork,5.04,completed,67,116
+236,2025-10-13 01:03:00,Daun Penh,Toul Kork,5.87,completed,72,93
+237,2025-10-13 14:07:00,Sen Sok,Chamkarmon,9.18,cancelled_by_user,31,42
+238,2025-10-13 23:59:00,Daun Penh,Chamkarmon,9.06,completed,75,284
+239,2025-10-13 13:20:00,Chamkarmon,Toul Kork,8.45,completed,71,210
+240,2025-10-13 11:21:00,Daun Penh,Chamkarmon,5.84,completed,66,206
+241,2025-10-13 07:30:00,Chamkarmon,Sen Sok,7.76,completed,70,220
+242,2025-10-13 02:53:00,Daun Penh,Russey Keo,5.86,completed,41,280
+243,2025-10-13 17:32:00,Sen Sok,Russey Keo,8.89,completed,63,136
+244,2025-10-13 04:37:00,Sen Sok,Toul Kork,4.92,completed,32,106
+245,2025-10-13 02:46:00,Sen Sok,Daun Penh,9.75,completed,20,118
+246,2025-10-13 10:07:00,Russey Keo,Toul Kork,9.42,completed,57,237
+247,2025-10-13 19:05:00,Toul Kork,Chamkarmon,7.8,completed,98,100
+248,2025-10-13 17:52:00,Sen Sok,Daun Penh,3.88,completed,50,261
+249,2025-10-13 01:19:00,Chamkarmon,Chamkarmon,2.62,cancelled_by_user,80,286
+250,2025-10-13 10:55:00,Sen Sok,Sen Sok,8.76,cancelled_by_driver,25,103
+251,2025-10-13 12:32:00,Russey Keo,Chamkarmon,2.91,cancelled_by_driver,12,63
+252,2025-10-13 15:28:00,Chamkarmon,Sen Sok,8.76,cancelled_by_driver,71,175
+253,2025-10-13 15:36:00,Russey Keo,Sen Sok,5.67,completed,39,282
+254,2025-10-13 08:45:00,Chamkarmon,Chamkarmon,4.96,cancelled_by_driver,17,293
+255,2025-10-13 13:27:00,Daun Penh,Chamkarmon,9.18,completed,45,226
+256,2025-10-13 11:32:00,Toul Kork,Sen Sok,6.63,completed,11,7
+257,2025-10-13 21:14:00,Toul Kork,Daun Penh,6.4,completed,70,127
+258,2025-10-13 12:43:00,Russey Keo,Sen Sok,6.25,completed,23,92
+259,2025-10-13 10:35:00,Toul Kork,Russey Keo,4.65,cancelled_by_driver,91,190
+260,2025-10-13 09:42:00,Russey Keo,Sen Sok,8.18,cancelled_by_user,70,53
+261,2025-10-13 13:44:00,Russey Keo,Daun Penh,3.65,completed,38,242
+262,2025-10-13 19:17:00,Russey Keo,Russey Keo,9.48,cancelled_by_driver,2,132
+263,2025-10-13 12:55:00,Toul Kork,Toul Kork,9.1,completed,86,112
+264,2025-10-13 15:52:00,Russey Keo,Toul Kork,4.37,completed,84,7
+265,2025-10-13 17:42:00,Toul Kork,Daun Penh,7.7,completed,89,230
+266,2025-10-13 12:29:00,Russey Keo,Sen Sok,6.37,completed,79,156
+267,2025-10-13 10:14:00,Sen Sok,Chamkarmon,4.37,cancelled_by_user,93,197
+268,2025-10-13 21:02:00,Russey Keo,Daun Penh,9.9,cancelled_by_driver,72,223
+269,2025-10-13 10:01:00,Chamkarmon,Russey Keo,1.71,cancelled_by_driver,37,250
+270,2025-10-13 11:05:00,Russey Keo,Russey Keo,3.65,completed,49,83
+271,2025-10-13 23:46:00,Daun Penh,Toul Kork,5.92,cancelled_by_user,52,240
+272,2025-10-13 00:00:00,Russey Keo,Russey Keo,5.94,completed,33,263
+273,2025-10-13 04:27:00,Chamkarmon,Daun Penh,6.51,cancelled_by_driver,22,189
+274,2025-10-13 09:12:00,Chamkarmon,Russey Keo,7.89,completed,5,290
+275,2025-10-13 22:22:00,Toul Kork,Daun Penh,6.8,completed,18,58
+276,2025-10-13 01:40:00,Sen Sok,Chamkarmon,6.6,completed,38,9
+277,2025-10-13 00:13:00,Russey Keo,Toul Kork,1.95,completed,37,115
+278,2025-10-13 01:15:00,Toul Kork,Russey Keo,4.7,completed,94,210
+279,2025-10-13 02:07:00,Sen Sok,Daun Penh,3.47,completed,95,41
+280,2025-10-13 00:54:00,Russey Keo,Sen Sok,3.76,completed,64,173
+281,2025-10-13 11:30:00,Daun Penh,Toul Kork,6.21,completed,10,234
+282,2025-10-13 13:56:00,Russey Keo,Chamkarmon,3.2,completed,79,281
+283,2025-10-13 06:31:00,Chamkarmon,Daun Penh,4.0,completed,42,78
+284,2025-10-13 09:33:00,Chamkarmon,Chamkarmon,3.52,completed,48,108
+285,2025-10-13 02:12:00,Daun Penh,Chamkarmon,9.56,completed,44,281
+286,2025-10-13 08:04:00,Toul Kork,Russey Keo,9.53,completed,82,39
+287,2025-10-13 12:32:00,Sen Sok,Russey Keo,6.68,cancelled_by_user,87,119
+288,2025-10-13 17:34:00,Russey Keo,Daun Penh,9.36,cancelled_by_driver,97,27
+289,2025-10-13 00:04:00,Chamkarmon,Sen Sok,8.18,completed,16,104
+290,2025-10-13 11:12:00,Toul Kork,Daun Penh,6.51,cancelled_by_driver,54,74
+291,2025-10-13 07:07:00,Daun Penh,Sen Sok,1.55,cancelled_by_driver,35,191
+292,2025-10-13 20:28:00,Chamkarmon,Chamkarmon,8.07,cancelled_by_user,98,147
+293,2025-10-13 17:10:00,Daun Penh,Toul Kork,7.47,completed,28,255
+294,2025-10-13 14:08:00,Russey Keo,Daun Penh,6.73,completed,2,284
+295,2025-10-13 06:39:00,Sen Sok,Daun Penh,7.96,completed,94,213
+296,2025-10-13 21:50:00,Chamkarmon,Sen Sok,5.86,completed,13,123
+297,2025-10-13 01:04:00,Chamkarmon,Chamkarmon,7.48,completed,41,206
+298,2025-10-13 02:37:00,Russey Keo,Chamkarmon,9.45,completed,80,240
+299,2025-10-13 09:23:00,Toul Kork,Sen Sok,4.69,cancelled_by_driver,59,286
+300,2025-10-13 02:59:00,Sen Sok,Chamkarmon,7.52,cancelled_by_user,69,22
+301,2025-10-13 22:57:00,Chamkarmon,Russey Keo,5.54,completed,92,259
+302,2025-10-13 19:09:00,Sen Sok,Toul Kork,7.23,completed,53,105
+303,2025-10-13 06:12:00,Chamkarmon,Daun Penh,7.98,completed,45,258
+304,2025-10-13 14:07:00,Sen Sok,Toul Kork,1.89,cancelled_by_driver,20,204
+305,2025-10-13 23:34:00,Daun Penh,Daun Penh,7.0,completed,24,262
+306,2025-10-13 21:13:00,Chamkarmon,Russey Keo,3.43,completed,61,107
+307,2025-10-13 14:25:00,Sen Sok,Chamkarmon,7.2,completed,91,251
+308,2025-10-13 21:41:00,Toul Kork,Sen Sok,5.48,completed,94,221
+309,2025-10-13 23:44:00,Daun Penh,Russey Keo,8.08,completed,58,222
+310,2025-10-13 17:50:00,Daun Penh,Toul Kork,2.55,completed,27,258
+311,2025-10-13 01:33:00,Toul Kork,Sen Sok,6.82,cancelled_by_driver,26,201
+312,2025-10-13 09:38:00,Sen Sok,Chamkarmon,3.87,cancelled_by_user,7,258
+313,2025-10-13 20:06:00,Russey Keo,Russey Keo,8.75,cancelled_by_user,42,225
+314,2025-10-13 05:32:00,Toul Kork,Sen Sok,9.39,cancelled_by_user,47,202
+315,2025-10-13 19:56:00,Sen Sok,Russey Keo,9.97,completed,53,226
+316,2025-10-13 02:53:00,Toul Kork,Russey Keo,8.27,completed,59,236
+317,2025-10-13 01:07:00,Toul Kork,Chamkarmon,7.91,completed,38,183
+318,2025-10-13 09:13:00,Chamkarmon,Daun Penh,3.33,cancelled_by_user,69,200
+319,2025-10-13 00:52:00,Sen Sok,Sen Sok,4.36,completed,87,246
+320,2025-10-13 22:58:00,Russey Keo,Chamkarmon,5.46,completed,92,111
+321,2025-10-13 19:49:00,Chamkarmon,Russey Keo,8.07,completed,98,6
+322,2025-10-13 19:13:00,Toul Kork,Chamkarmon,9.28,completed,53,236
+323,2025-10-13 15:06:00,Toul Kork,Daun Penh,3.11,completed,15,127
+324,2025-10-13 05:11:00,Toul Kork,Sen Sok,9.34,completed,96,104
+325,2025-10-13 12:26:00,Sen Sok,Daun Penh,7.41,completed,26,237
+326,2025-10-13 14:20:00,Sen Sok,Toul Kork,6.69,completed,48,155
+327,2025-10-13 12:36:00,Chamkarmon,Sen Sok,3.2,cancelled_by_driver,95,257
+328,2025-10-13 06:14:00,Russey Keo,Daun Penh,1.97,completed,19,235
+329,2025-10-13 12:21:00,Chamkarmon,Russey Keo,6.33,completed,9,289
+330,2025-10-13 11:47:00,Daun Penh,Sen Sok,7.04,completed,64,40
+331,2025-10-13 23:54:00,Toul Kork,Sen Sok,3.29,cancelled_by_driver,93,288
+332,2025-10-13 21:32:00,Toul Kork,Chamkarmon,6.23,completed,54,197
+333,2025-10-13 11:07:00,Toul Kork,Russey Keo,8.78,cancelled_by_user,51,273
+334,2025-10-13 14:57:00,Chamkarmon,Toul Kork,8.6,completed,39,264
+335,2025-10-13 17:56:00,Chamkarmon,Daun Penh,9.38,cancelled_by_user,4,57
+336,2025-10-13 00:50:00,Toul Kork,Chamkarmon,4.61,cancelled_by_user,3,298
+337,2025-10-13 21:28:00,Chamkarmon,Daun Penh,4.2,completed,64,98
+338,2025-10-13 20:38:00,Sen Sok,Toul Kork,7.87,completed,29,137
+339,2025-10-13 10:58:00,Sen Sok,Toul Kork,5.16,completed,11,87
+340,2025-10-13 09:23:00,Chamkarmon,Sen Sok,2.24,completed,97,242
+341,2025-10-13 06:33:00,Toul Kork,Toul Kork,3.9,completed,58,199
+342,2025-10-13 11:26:00,Chamkarmon,Daun Penh,5.06,completed,75,84
+343,2025-10-13 01:03:00,Chamkarmon,Russey Keo,3.99,completed,27,242
+344,2025-10-13 20:27:00,Chamkarmon,Russey Keo,4.32,completed,97,281
+345,2025-10-13 00:51:00,Daun Penh,Sen Sok,4.0,completed,21,252
+346,2025-10-13 07:53:00,Sen Sok,Daun Penh,1.85,completed,39,190
+347,2025-10-13 22:21:00,Russey Keo,Daun Penh,6.92,completed,95,152
+348,2025-10-13 17:38:00,Russey Keo,Toul Kork,6.58,completed,46,278
+349,2025-10-13 06:45:00,Daun Penh,Daun Penh,7.05,completed,66,139
+350,2025-10-13 06:03:00,Chamkarmon,Chamkarmon,3.13,completed,91,176
+351,2025-10-13 00:07:00,Daun Penh,Toul Kork,4.01,cancelled_by_driver,36,8
+352,2025-10-13 16:41:00,Daun Penh,Chamkarmon,6.77,completed,75,295
+353,2025-10-13 01:10:00,Toul Kork,Sen Sok,6.6,completed,82,235
+354,2025-10-13 12:46:00,Sen Sok,Russey Keo,5.8,completed,65,163
+355,2025-10-13 23:05:00,Russey Keo,Sen Sok,4.48,cancelled_by_driver,63,49
+356,2025-10-13 02:37:00,Chamkarmon,Russey Keo,9.26,cancelled_by_driver,99,38
+357,2025-10-13 21:28:00,Russey Keo,Sen Sok,4.39,cancelled_by_driver,35,136
+358,2025-10-13 23:47:00,Russey Keo,Daun Penh,5.37,completed,31,219
+359,2025-10-13 01:28:00,Sen Sok,Chamkarmon,7.26,completed,28,296
+360,2025-10-13 21:11:00,Russey Keo,Russey Keo,6.12,completed,1,34
+361,2025-10-13 12:23:00,Russey Keo,Toul Kork,4.45,completed,25,79
+362,2025-10-13 21:45:00,Daun Penh,Chamkarmon,5.2,cancelled_by_user,43,236
+363,2025-10-13 13:42:00,Sen Sok,Toul Kork,8.25,completed,84,273
+364,2025-10-13 15:53:00,Toul Kork,Chamkarmon,3.86,completed,67,161
+365,2025-10-13 13:03:00,Chamkarmon,Chamkarmon,2.71,completed,63,175
+366,2025-10-13 20:44:00,Russey Keo,Sen Sok,4.16,cancelled_by_driver,51,221
+367,2025-10-13 17:36:00,Chamkarmon,Russey Keo,8.72,completed,2,9
+368,2025-10-13 12:30:00,Toul Kork,Russey Keo,2.26,completed,82,289
+369,2025-10-13 20:50:00,Chamkarmon,Chamkarmon,9.93,completed,64,113
+370,2025-10-13 05:53:00,Toul Kork,Daun Penh,6.1,completed,74,205
+371,2025-10-13 03:46:00,Daun Penh,Daun Penh,9.87,completed,69,186
+372,2025-10-13 03:50:00,Russey Keo,Toul Kork,9.48,cancelled_by_driver,9,197
+373,2025-10-13 08:00:00,Toul Kork,Toul Kork,5.35,completed,2,266
+374,2025-10-13 05:43:00,Chamkarmon,Sen Sok,3.19,completed,34,262
+375,2025-10-13 22:19:00,Russey Keo,Chamkarmon,2.9,completed,60,248
+376,2025-10-13 02:32:00,Daun Penh,Toul Kork,3.54,completed,61,115
+377,2025-10-13 16:46:00,Russey Keo,Toul Kork,7.54,cancelled_by_driver,31,121
+378,2025-10-13 04:32:00,Toul Kork,Chamkarmon,3.82,cancelled_by_driver,10,141
+379,2025-10-13 21:09:00,Daun Penh,Sen Sok,4.4,completed,76,65
+380,2025-10-13 23:04:00,Chamkarmon,Toul Kork,5.31,cancelled_by_driver,36,276
+381,2025-10-13 11:10:00,Daun Penh,Sen Sok,9.26,completed,85,239
+382,2025-10-13 21:05:00,Daun Penh,Russey Keo,3.11,completed,49,10
+383,2025-10-13 00:07:00,Sen Sok,Sen Sok,1.54,completed,70,233
+384,2025-10-13 19:40:00,Daun Penh,Daun Penh,2.01,completed,49,195
+385,2025-10-13 05:29:00,Daun Penh,Daun Penh,9.19,completed,3,12
+386,2025-10-13 21:48:00,Russey Keo,Sen Sok,7.0,completed,74,177
+387,2025-10-13 00:01:00,Chamkarmon,Daun Penh,3.82,completed,5,177
+388,2025-10-13 13:20:00,Russey Keo,Russey Keo,3.01,completed,90,217
+389,2025-10-13 18:09:00,Russey Keo,Chamkarmon,4.0,completed,61,11
+390,2025-10-13 06:12:00,Toul Kork,Daun Penh,2.48,completed,85,118
+391,2025-10-13 04:38:00,Russey Keo,Daun Penh,9.5,cancelled_by_user,90,164
+392,2025-10-13 02:01:00,Sen Sok,Sen Sok,8.17,completed,26,39
+393,2025-10-13 07:50:00,Sen Sok,Russey Keo,5.43,completed,72,53
+394,2025-10-13 13:26:00,Toul Kork,Chamkarmon,8.85,cancelled_by_driver,5,218
+395,2025-10-13 02:46:00,Chamkarmon,Sen Sok,3.62,completed,15,206
+396,2025-10-13 09:02:00,Chamkarmon,Sen Sok,7.6,completed,16,56
+397,2025-10-13 00:13:00,Russey Keo,Russey Keo,8.78,completed,1,118
+398,2025-10-13 19:38:00,Russey Keo,Chamkarmon,4.53,completed,16,253
+399,2025-10-13 03:04:00,Russey Keo,Russey Keo,7.94,completed,37,286
+400,2025-10-13 06:48:00,Chamkarmon,Chamkarmon,4.01,completed,3,268
+401,2025-10-13 00:26:00,Daun Penh,Russey Keo,4.04,cancelled_by_driver,52,291
+402,2025-10-13 10:22:00,Sen Sok,Sen Sok,2.41,cancelled_by_driver,47,180
+403,2025-10-13 20:09:00,Daun Penh,Sen Sok,5.24,cancelled_by_driver,95,235
+404,2025-10-13 09:24:00,Daun Penh,Toul Kork,7.7,completed,13,196
+405,2025-10-13 04:18:00,Chamkarmon,Daun Penh,9.49,completed,80,80
+406,2025-10-13 18:05:00,Daun Penh,Russey Keo,6.63,completed,55,135
+407,2025-10-13 18:55:00,Toul Kork,Toul Kork,8.84,completed,21,22
+408,2025-10-13 04:10:00,Russey Keo,Daun Penh,8.49,cancelled_by_driver,66,225
+409,2025-10-13 18:30:00,Toul Kork,Russey Keo,2.97,completed,54,58
+410,2025-10-13 22:44:00,Sen Sok,Chamkarmon,5.63,completed,27,93
+411,2025-10-13 03:59:00,Russey Keo,Daun Penh,2.49,completed,38,192
+412,2025-10-13 18:30:00,Daun Penh,Sen Sok,7.3,cancelled_by_driver,90,103
+413,2025-10-13 17:00:00,Sen Sok,Toul Kork,9.57,cancelled_by_driver,58,7
+414,2025-10-13 11:21:00,Russey Keo,Daun Penh,2.67,completed,62,128
+415,2025-10-13 01:23:00,Daun Penh,Daun Penh,7.74,cancelled_by_driver,46,55
+416,2025-10-13 01:47:00,Toul Kork,Sen Sok,6.87,completed,89,231
+417,2025-10-13 20:27:00,Russey Keo,Russey Keo,6.46,completed,11,62
+418,2025-10-13 23:45:00,Daun Penh,Chamkarmon,4.82,cancelled_by_driver,72,240
+419,2025-10-13 16:13:00,Toul Kork,Sen Sok,4.52,completed,8,90
+420,2025-10-13 10:42:00,Sen Sok,Chamkarmon,1.88,cancelled_by_user,97,232
+421,2025-10-13 15:32:00,Sen Sok,Russey Keo,3.35,completed,71,233
+422,2025-10-13 14:15:00,Sen Sok,Daun Penh,1.63,completed,64,292
+423,2025-10-13 09:12:00,Sen Sok,Chamkarmon,6.44,cancelled_by_user,21,152
+424,2025-10-13 01:34:00,Chamkarmon,Toul Kork,2.4,completed,72,145
+425,2025-10-13 19:42:00,Russey Keo,Toul Kork,8.92,cancelled_by_user,63,130
+426,2025-10-13 08:55:00,Russey Keo,Sen Sok,5.95,cancelled_by_user,85,141
+427,2025-10-13 19:39:00,Chamkarmon,Russey Keo,7.45,completed,64,93
+428,2025-10-13 06:03:00,Daun Penh,Sen Sok,4.99,completed,20,114
+429,2025-10-13 00:01:00,Daun Penh,Sen Sok,6.26,completed,8,284
+430,2025-10-13 03:48:00,Sen Sok,Sen Sok,9.51,completed,58,143
+431,2025-10-13 11:14:00,Toul Kork,Toul Kork,2.2,completed,46,223
+432,2025-10-13 22:39:00,Daun Penh,Toul Kork,3.66,completed,31,232
+433,2025-10-13 02:27:00,Toul Kork,Sen Sok,8.13,completed,93,33
+434,2025-10-13 20:30:00,Russey Keo,Toul Kork,2.34,completed,9,276
+435,2025-10-13 12:38:00,Toul Kork,Russey Keo,2.14,cancelled_by_user,15,170
+436,2025-10-13 19:49:00,Russey Keo,Sen Sok,4.57,cancelled_by_driver,94,140
+437,2025-10-13 07:09:00,Chamkarmon,Toul Kork,2.28,completed,26,201
+438,2025-10-13 20:09:00,Chamkarmon,Chamkarmon,6.47,completed,10,23
+439,2025-10-13 18:32:00,Sen Sok,Sen Sok,3.42,cancelled_by_driver,29,224
+440,2025-10-13 05:31:00,Daun Penh,Sen Sok,9.11,completed,80,270
+441,2025-10-13 03:09:00,Sen Sok,Russey Keo,8.16,completed,36,153
+442,2025-10-13 20:49:00,Russey Keo,Daun Penh,7.45,cancelled_by_user,84,85
+443,2025-10-13 23:07:00,Sen Sok,Daun Penh,6.74,completed,37,109
+444,2025-10-13 00:45:00,Toul Kork,Russey Keo,8.84,completed,86,31
+445,2025-10-13 17:33:00,Russey Keo,Russey Keo,3.4,cancelled_by_driver,71,229
+446,2025-10-13 21:49:00,Chamkarmon,Russey Keo,8.92,cancelled_by_user,23,240
+447,2025-10-13 20:34:00,Daun Penh,Daun Penh,8.21,completed,41,141
+448,2025-10-13 23:08:00,Russey Keo,Russey Keo,7.86,completed,93,156
+449,2025-10-13 18:14:00,Russey Keo,Toul Kork,6.27,completed,80,299
+450,2025-10-13 10:36:00,Toul Kork,Sen Sok,3.59,completed,28,99
+451,2025-10-13 07:29:00,Daun Penh,Sen Sok,5.1,cancelled_by_driver,48,47
+452,2025-10-13 07:41:00,Chamkarmon,Chamkarmon,8.25,completed,38,67
+453,2025-10-13 17:23:00,Russey Keo,Chamkarmon,1.77,cancelled_by_driver,31,62
+454,2025-10-13 17:54:00,Russey Keo,Sen Sok,8.15,completed,14,109
+455,2025-10-13 04:48:00,Toul Kork,Toul Kork,3.54,completed,97,167
+456,2025-10-13 20:50:00,Sen Sok,Daun Penh,2.73,completed,73,37
+457,2025-10-13 17:09:00,Chamkarmon,Daun Penh,2.48,completed,91,119
+458,2025-10-13 13:30:00,Daun Penh,Toul Kork,1.73,completed,88,86
+459,2025-10-13 11:19:00,Russey Keo,Daun Penh,5.95,completed,77,52
+460,2025-10-13 13:02:00,Russey Keo,Russey Keo,3.36,completed,90,91
+461,2025-10-13 03:49:00,Chamkarmon,Sen Sok,9.91,completed,29,289
+462,2025-10-13 04:53:00,Sen Sok,Sen Sok,6.38,completed,51,298
+463,2025-10-13 02:11:00,Russey Keo,Toul Kork,2.67,cancelled_by_driver,49,204
+464,2025-10-13 03:41:00,Chamkarmon,Daun Penh,7.35,completed,43,238
+465,2025-10-13 10:53:00,Toul Kork,Chamkarmon,9.13,completed,92,155
+466,2025-10-13 12:43:00,Sen Sok,Chamkarmon,7.83,cancelled_by_driver,92,240
+467,2025-10-13 00:25:00,Daun Penh,Daun Penh,2.15,cancelled_by_user,72,136
+468,2025-10-13 19:07:00,Russey Keo,Chamkarmon,9.12,completed,87,64
+469,2025-10-13 07:03:00,Chamkarmon,Toul Kork,8.25,completed,93,123
+470,2025-10-13 21:53:00,Toul Kork,Toul Kork,2.85,cancelled_by_driver,5,254
+471,2025-10-13 23:13:00,Daun Penh,Daun Penh,1.94,cancelled_by_user,42,114
+472,2025-10-13 04:27:00,Chamkarmon,Chamkarmon,6.24,cancelled_by_driver,7,20
+473,2025-10-13 11:05:00,Chamkarmon,Toul Kork,2.83,completed,42,16
+474,2025-10-13 00:01:00,Daun Penh,Toul Kork,8.59,completed,36,145
+475,2025-10-13 14:21:00,Toul Kork,Russey Keo,4.55,completed,27,208
+476,2025-10-13 14:34:00,Toul Kork,Russey Keo,9.26,completed,58,19
+477,2025-10-13 05:56:00,Sen Sok,Toul Kork,6.31,completed,46,166
+478,2025-10-13 13:24:00,Russey Keo,Daun Penh,3.05,cancelled_by_driver,66,38
+479,2025-10-13 05:24:00,Daun Penh,Sen Sok,2.69,completed,25,181
+480,2025-10-13 03:51:00,Daun Penh,Sen Sok,6.4,completed,73,105
+481,2025-10-13 15:38:00,Daun Penh,Toul Kork,7.98,completed,27,100
+482,2025-10-13 07:49:00,Toul Kork,Toul Kork,8.14,completed,1,90
+483,2025-10-13 14:09:00,Russey Keo,Toul Kork,3.84,completed,87,300
+484,2025-10-13 10:23:00,Sen Sok,Daun Penh,3.24,cancelled_by_driver,74,79
+485,2025-10-13 23:37:00,Chamkarmon,Russey Keo,1.64,completed,42,73
+486,2025-10-13 03:35:00,Chamkarmon,Toul Kork,7.27,completed,52,176
+487,2025-10-13 11:09:00,Daun Penh,Toul Kork,2.15,cancelled_by_user,25,96
+488,2025-10-13 16:19:00,Russey Keo,Chamkarmon,5.08,completed,54,103
+489,2025-10-13 09:29:00,Toul Kork,Daun Penh,6.61,completed,67,224
+490,2025-10-13 23:23:00,Russey Keo,Toul Kork,9.47,cancelled_by_user,6,6
+491,2025-10-13 17:19:00,Russey Keo,Chamkarmon,4.15,completed,58,122
+492,2025-10-13 15:46:00,Toul Kork,Sen Sok,3.62,completed,70,236
+493,2025-10-13 18:10:00,Daun Penh,Toul Kork,7.06,cancelled_by_driver,53,116
+494,2025-10-13 22:51:00,Russey Keo,Toul Kork,6.76,completed,66,163
+495,2025-10-13 21:47:00,Chamkarmon,Chamkarmon,4.32,completed,58,226
+496,2025-10-13 17:22:00,Toul Kork,Daun Penh,9.39,completed,82,230
+497,2025-10-13 17:58:00,Sen Sok,Toul Kork,8.68,cancelled_by_driver,87,182
+498,2025-10-13 03:30:00,Daun Penh,Sen Sok,3.4,completed,2,249
+499,2025-10-13 02:28:00,Toul Kork,Toul Kork,3.53,completed,76,210
+500,2025-10-13 13:42:00,Sen Sok,Sen Sok,5.85,completed,22,144
+501,2025-10-13 00:26:00,Sen Sok,Russey Keo,8.08,completed,37,96
+502,2025-10-13 11:34:00,Russey Keo,Russey Keo,1.87,cancelled_by_driver,20,244
+503,2025-10-13 05:02:00,Russey Keo,Sen Sok,7.39,completed,24,86
+504,2025-10-13 08:18:00,Russey Keo,Daun Penh,7.01,completed,84,184
+505,2025-10-13 18:37:00,Toul Kork,Toul Kork,3.47,completed,65,121
+506,2025-10-13 22:35:00,Toul Kork,Toul Kork,7.29,completed,65,92
+507,2025-10-13 01:44:00,Daun Penh,Russey Keo,9.49,completed,81,70
+508,2025-10-13 12:49:00,Russey Keo,Sen Sok,1.9,cancelled_by_driver,1,133
+509,2025-10-13 21:10:00,Sen Sok,Toul Kork,4.22,completed,94,279
+510,2025-10-13 01:58:00,Chamkarmon,Toul Kork,5.22,cancelled_by_user,3,137
+511,2025-10-13 19:47:00,Daun Penh,Daun Penh,9.14,cancelled_by_driver,46,187
+512,2025-10-13 08:35:00,Toul Kork,Chamkarmon,9.68,completed,55,221
+513,2025-10-13 07:43:00,Daun Penh,Russey Keo,5.27,completed,75,46
+514,2025-10-13 23:27:00,Daun Penh,Russey Keo,7.88,cancelled_by_user,88,278
+515,2025-10-13 04:49:00,Daun Penh,Chamkarmon,6.02,completed,86,192
+516,2025-10-13 16:38:00,Daun Penh,Toul Kork,6.07,cancelled_by_driver,64,8
+517,2025-10-13 19:42:00,Chamkarmon,Daun Penh,3.86,completed,45,276
+518,2025-10-13 00:59:00,Russey Keo,Daun Penh,3.34,completed,26,179
+519,2025-10-13 16:05:00,Sen Sok,Russey Keo,3.95,completed,77,39
+520,2025-10-13 22:50:00,Daun Penh,Daun Penh,6.23,completed,65,293
+521,2025-10-13 02:58:00,Daun Penh,Chamkarmon,1.75,cancelled_by_user,24,178
+522,2025-10-13 21:30:00,Daun Penh,Toul Kork,9.21,completed,74,162
+523,2025-10-13 14:16:00,Russey Keo,Chamkarmon,2.83,completed,35,104
+524,2025-10-13 14:47:00,Toul Kork,Sen Sok,3.37,cancelled_by_user,24,161
+525,2025-10-13 14:42:00,Toul Kork,Russey Keo,5.91,completed,28,287
+526,2025-10-13 07:10:00,Chamkarmon,Daun Penh,7.54,completed,100,123
+527,2025-10-13 22:26:00,Toul Kork,Sen Sok,2.31,cancelled_by_driver,80,54
+528,2025-10-13 22:44:00,Daun Penh,Daun Penh,4.2,completed,16,34
+529,2025-10-13 15:00:00,Daun Penh,Toul Kork,9.73,completed,59,242
+530,2025-10-13 18:48:00,Daun Penh,Toul Kork,3.73,completed,81,113
+531,2025-10-13 14:41:00,Chamkarmon,Toul Kork,4.16,completed,54,23
+532,2025-10-13 11:37:00,Daun Penh,Daun Penh,8.61,completed,79,46
+533,2025-10-13 15:51:00,Toul Kork,Sen Sok,1.93,completed,16,135
+534,2025-10-13 13:16:00,Russey Keo,Toul Kork,5.45,completed,15,118
+535,2025-10-13 14:20:00,Russey Keo,Sen Sok,4.73,completed,98,189
+536,2025-10-13 18:48:00,Sen Sok,Daun Penh,4.19,completed,11,131
+537,2025-10-13 11:32:00,Toul Kork,Sen Sok,3.93,completed,65,212
+538,2025-10-13 00:58:00,Daun Penh,Daun Penh,2.28,completed,79,113
+539,2025-10-13 03:56:00,Russey Keo,Daun Penh,4.18,cancelled_by_driver,90,44
+540,2025-10-13 10:31:00,Toul Kork,Russey Keo,1.87,completed,68,128
+541,2025-10-13 17:23:00,Russey Keo,Daun Penh,8.14,completed,43,158
+542,2025-10-13 14:14:00,Daun Penh,Daun Penh,4.88,completed,69,273
+543,2025-10-13 15:36:00,Russey Keo,Chamkarmon,5.27,completed,99,45
+544,2025-10-13 11:30:00,Sen Sok,Toul Kork,9.1,completed,13,108
+545,2025-10-13 14:46:00,Sen Sok,Russey Keo,7.09,completed,10,219
+546,2025-10-13 07:53:00,Russey Keo,Russey Keo,1.57,completed,75,177
+547,2025-10-13 11:17:00,Toul Kork,Russey Keo,9.52,completed,82,228
+548,2025-10-13 17:51:00,Toul Kork,Chamkarmon,3.52,cancelled_by_driver,98,191
+549,2025-10-13 20:55:00,Toul Kork,Daun Penh,2.41,completed,41,160
+550,2025-10-13 10:24:00,Russey Keo,Toul Kork,8.03,completed,50,267
+551,2025-10-13 01:02:00,Toul Kork,Sen Sok,5.75,cancelled_by_driver,87,190
+552,2025-10-13 03:52:00,Daun Penh,Daun Penh,5.19,completed,71,175
+553,2025-10-13 00:30:00,Sen Sok,Chamkarmon,3.62,completed,59,290
+554,2025-10-13 15:40:00,Daun Penh,Daun Penh,6.15,completed,39,145
+555,2025-10-13 07:58:00,Toul Kork,Daun Penh,3.83,completed,3,232
+556,2025-10-13 13:01:00,Daun Penh,Chamkarmon,9.16,completed,76,204
+557,2025-10-13 11:50:00,Toul Kork,Russey Keo,3.33,completed,7,213
+558,2025-10-13 01:57:00,Russey Keo,Russey Keo,9.02,completed,49,40
+559,2025-10-13 09:40:00,Daun Penh,Toul Kork,6.25,completed,26,275
+560,2025-10-13 05:17:00,Russey Keo,Toul Kork,8.54,completed,33,82
+561,2025-10-13 10:02:00,Russey Keo,Russey Keo,7.56,cancelled_by_driver,48,181
+562,2025-10-13 04:53:00,Chamkarmon,Sen Sok,7.42,completed,79,83
+563,2025-10-13 20:10:00,Toul Kork,Daun Penh,4.26,completed,2,262
+564,2025-10-13 04:10:00,Sen Sok,Sen Sok,3.49,completed,71,272
+565,2025-10-13 23:03:00,Toul Kork,Daun Penh,3.29,completed,32,200
+566,2025-10-13 09:58:00,Sen Sok,Russey Keo,8.79,cancelled_by_driver,4,240
+567,2025-10-13 20:18:00,Toul Kork,Toul Kork,8.47,completed,20,180
+568,2025-10-13 15:05:00,Russey Keo,Toul Kork,5.24,completed,36,171
+569,2025-10-13 17:38:00,Daun Penh,Sen Sok,2.63,completed,32,295
+570,2025-10-13 18:25:00,Daun Penh,Toul Kork,4.75,completed,28,177
+571,2025-10-13 12:06:00,Chamkarmon,Russey Keo,6.76,completed,77,237
+572,2025-10-13 13:02:00,Sen Sok,Sen Sok,5.36,completed,1,138
+573,2025-10-13 12:20:00,Sen Sok,Daun Penh,8.13,completed,60,129
+574,2025-10-13 14:06:00,Sen Sok,Toul Kork,9.98,completed,56,49
+575,2025-10-13 00:42:00,Russey Keo,Chamkarmon,3.12,completed,35,164
+576,2025-10-13 09:29:00,Sen Sok,Toul Kork,5.41,cancelled_by_driver,30,277
+577,2025-10-13 14:32:00,Daun Penh,Daun Penh,5.16,completed,54,293
+578,2025-10-13 14:20:00,Russey Keo,Sen Sok,4.09,completed,36,116
+579,2025-10-13 19:01:00,Toul Kork,Daun Penh,3.18,completed,55,24
+580,2025-10-13 15:43:00,Sen Sok,Chamkarmon,2.06,completed,89,25
+581,2025-10-13 23:48:00,Sen Sok,Russey Keo,9.04,completed,80,127
+582,2025-10-13 06:48:00,Toul Kork,Toul Kork,5.07,cancelled_by_driver,58,234
+583,2025-10-13 08:37:00,Sen Sok,Sen Sok,5.72,completed,83,209
+584,2025-10-13 09:12:00,Toul Kork,Russey Keo,9.29,cancelled_by_user,65,93
+585,2025-10-13 11:10:00,Russey Keo,Daun Penh,8.1,completed,69,94
+586,2025-10-13 20:03:00,Daun Penh,Sen Sok,2.61,completed,51,225
+587,2025-10-13 05:39:00,Toul Kork,Russey Keo,6.31,completed,22,280
+588,2025-10-13 18:37:00,Chamkarmon,Sen Sok,5.26,completed,88,11
+589,2025-10-13 09:43:00,Toul Kork,Chamkarmon,8.28,completed,53,12
+590,2025-10-13 14:26:00,Sen Sok,Chamkarmon,7.66,cancelled_by_driver,100,35
+591,2025-10-13 15:10:00,Russey Keo,Toul Kork,7.37,cancelled_by_driver,36,228
+592,2025-10-13 08:56:00,Russey Keo,Toul Kork,4.39,cancelled_by_user,68,220
+593,2025-10-13 12:18:00,Toul Kork,Chamkarmon,8.34,cancelled_by_driver,36,141
+594,2025-10-13 09:54:00,Daun Penh,Sen Sok,1.95,completed,52,23
+595,2025-10-13 01:39:00,Chamkarmon,Chamkarmon,2.86,completed,53,83
+596,2025-10-13 10:29:00,Russey Keo,Toul Kork,4.35,completed,82,229
+597,2025-10-13 02:20:00,Sen Sok,Chamkarmon,2.15,completed,50,80
+598,2025-10-13 09:43:00,Sen Sok,Chamkarmon,3.5,completed,80,290
+599,2025-10-13 14:13:00,Daun Penh,Sen Sok,8.56,completed,41,159
+600,2025-10-13 13:54:00,Russey Keo,Russey Keo,9.56,completed,18,128
+601,2025-10-13 15:54:00,Toul Kork,Toul Kork,4.09,completed,22,190
+602,2025-10-13 02:17:00,Sen Sok,Sen Sok,3.75,completed,66,31
+603,2025-10-13 15:39:00,Daun Penh,Chamkarmon,3.88,completed,21,15
+604,2025-10-13 07:29:00,Russey Keo,Chamkarmon,3.86,completed,100,75
+605,2025-10-13 09:34:00,Russey Keo,Russey Keo,1.81,completed,44,34
+606,2025-10-13 20:35:00,Russey Keo,Toul Kork,9.38,completed,47,196
+607,2025-10-13 00:13:00,Russey Keo,Toul Kork,3.32,completed,39,29
+608,2025-10-13 14:07:00,Russey Keo,Daun Penh,5.07,completed,29,194
+609,2025-10-13 14:22:00,Sen Sok,Toul Kork,1.58,completed,54,16
+610,2025-10-13 09:31:00,Daun Penh,Russey Keo,8.79,completed,90,77
+611,2025-10-13 05:41:00,Russey Keo,Daun Penh,7.71,completed,85,293
+612,2025-10-13 05:37:00,Chamkarmon,Daun Penh,9.55,completed,17,81
+613,2025-10-13 21:12:00,Chamkarmon,Chamkarmon,8.14,completed,80,124
+614,2025-10-13 10:36:00,Daun Penh,Chamkarmon,4.17,completed,60,19
+615,2025-10-13 07:56:00,Toul Kork,Toul Kork,3.61,completed,31,102
+616,2025-10-13 10:46:00,Toul Kork,Daun Penh,7.43,completed,73,77
+617,2025-10-13 16:03:00,Toul Kork,Chamkarmon,4.59,completed,95,229
+618,2025-10-13 03:29:00,Chamkarmon,Russey Keo,6.31,cancelled_by_driver,78,297
+619,2025-10-13 10:47:00,Toul Kork,Chamkarmon,1.55,completed,49,203
+620,2025-10-13 14:06:00,Sen Sok,Chamkarmon,2.03,cancelled_by_user,2,61
+621,2025-10-13 22:45:00,Russey Keo,Daun Penh,6.05,completed,48,26
+622,2025-10-13 06:03:00,Chamkarmon,Daun Penh,6.31,completed,14,71
+623,2025-10-13 08:37:00,Daun Penh,Sen Sok,7.89,completed,59,103
+624,2025-10-13 09:06:00,Daun Penh,Russey Keo,2.62,completed,97,157
+625,2025-10-13 14:31:00,Russey Keo,Daun Penh,5.86,completed,99,194
+626,2025-10-13 08:33:00,Chamkarmon,Toul Kork,3.15,completed,58,275
+627,2025-10-13 12:48:00,Toul Kork,Russey Keo,2.29,completed,58,186
+628,2025-10-13 18:45:00,Toul Kork,Russey Keo,4.99,completed,51,113
+629,2025-10-13 16:55:00,Sen Sok,Daun Penh,2.89,completed,84,165
+630,2025-10-13 10:42:00,Sen Sok,Russey Keo,3.39,completed,2,61
+631,2025-10-13 20:44:00,Toul Kork,Daun Penh,4.2,completed,41,92
+632,2025-10-13 13:23:00,Daun Penh,Chamkarmon,3.7,completed,83,286
+633,2025-10-13 12:57:00,Daun Penh,Sen Sok,2.24,completed,82,153
+634,2025-10-13 00:49:00,Sen Sok,Chamkarmon,2.26,cancelled_by_driver,16,225
+635,2025-10-13 23:40:00,Russey Keo,Daun Penh,3.14,cancelled_by_user,4,127
+636,2025-10-13 02:57:00,Toul Kork,Daun Penh,1.93,completed,12,193
+637,2025-10-13 05:32:00,Sen Sok,Chamkarmon,6.82,completed,29,115
+638,2025-10-13 01:14:00,Sen Sok,Toul Kork,3.94,cancelled_by_driver,7,262
+639,2025-10-13 15:21:00,Toul Kork,Toul Kork,3.88,completed,14,18
+640,2025-10-13 05:23:00,Toul Kork,Toul Kork,4.32,completed,12,10
+641,2025-10-13 04:19:00,Daun Penh,Daun Penh,7.13,cancelled_by_user,99,92
+642,2025-10-13 02:07:00,Russey Keo,Russey Keo,8.9,completed,5,139
+643,2025-10-13 02:28:00,Russey Keo,Daun Penh,7.95,completed,81,52
+644,2025-10-13 14:01:00,Toul Kork,Russey Keo,7.68,completed,32,195
+645,2025-10-13 16:31:00,Chamkarmon,Chamkarmon,5.62,completed,74,206
+646,2025-10-13 09:32:00,Sen Sok,Sen Sok,7.4,cancelled_by_driver,43,287
+647,2025-10-13 11:31:00,Sen Sok,Russey Keo,6.2,completed,81,93
+648,2025-10-13 16:27:00,Toul Kork,Toul Kork,3.34,completed,69,145
+649,2025-10-13 00:25:00,Chamkarmon,Daun Penh,3.27,completed,45,86
+650,2025-10-13 07:45:00,Daun Penh,Chamkarmon,4.02,completed,9,153
+651,2025-10-13 23:21:00,Toul Kork,Toul Kork,9.24,completed,49,2
+652,2025-10-13 13:55:00,Toul Kork,Chamkarmon,6.15,completed,33,260
+653,2025-10-13 06:06:00,Sen Sok,Sen Sok,7.74,cancelled_by_driver,100,164
+654,2025-10-13 12:31:00,Toul Kork,Daun Penh,4.45,completed,100,6
+655,2025-10-13 08:13:00,Toul Kork,Daun Penh,4.97,completed,18,149
+656,2025-10-13 12:46:00,Toul Kork,Sen Sok,2.57,completed,9,205
+657,2025-10-13 03:01:00,Sen Sok,Daun Penh,2.96,completed,62,118
+658,2025-10-13 03:11:00,Daun Penh,Russey Keo,8.53,cancelled_by_driver,57,89
+659,2025-10-13 03:26:00,Daun Penh,Chamkarmon,6.47,completed,29,154
+660,2025-10-13 22:33:00,Toul Kork,Toul Kork,4.37,cancelled_by_driver,78,167
+661,2025-10-13 17:35:00,Sen Sok,Sen Sok,8.32,completed,25,161
+662,2025-10-13 03:53:00,Daun Penh,Russey Keo,3.6,completed,15,270
+663,2025-10-13 04:31:00,Daun Penh,Toul Kork,9.8,completed,6,56
+664,2025-10-13 17:32:00,Daun Penh,Toul Kork,4.43,completed,42,228
+665,2025-10-13 03:44:00,Sen Sok,Sen Sok,4.37,completed,29,149
+666,2025-10-13 05:37:00,Sen Sok,Russey Keo,4.15,cancelled_by_driver,79,46
+667,2025-10-13 23:07:00,Toul Kork,Toul Kork,2.54,completed,93,144
+668,2025-10-13 06:07:00,Russey Keo,Toul Kork,2.44,cancelled_by_user,4,238
+669,2025-10-13 15:52:00,Daun Penh,Russey Keo,7.01,completed,82,272
+670,2025-10-13 23:29:00,Russey Keo,Daun Penh,8.94,completed,57,120
+671,2025-10-13 08:58:00,Sen Sok,Toul Kork,8.22,completed,49,220
+672,2025-10-13 00:25:00,Sen Sok,Chamkarmon,2.7,completed,44,8
+673,2025-10-13 05:51:00,Sen Sok,Russey Keo,6.14,completed,80,275
+674,2025-10-13 19:56:00,Russey Keo,Toul Kork,2.4,completed,75,66
+675,2025-10-13 20:45:00,Sen Sok,Sen Sok,1.89,completed,14,79
+676,2025-10-13 18:26:00,Toul Kork,Chamkarmon,7.08,cancelled_by_driver,3,86
+677,2025-10-13 02:42:00,Sen Sok,Toul Kork,6.05,completed,62,124
+678,2025-10-13 19:05:00,Chamkarmon,Chamkarmon,2.2,cancelled_by_driver,64,202
+679,2025-10-13 22:02:00,Russey Keo,Chamkarmon,1.8,cancelled_by_driver,45,150
+680,2025-10-13 14:24:00,Chamkarmon,Daun Penh,9.91,completed,82,46
+681,2025-10-13 22:34:00,Sen Sok,Chamkarmon,1.76,completed,58,113
+682,2025-10-13 19:50:00,Toul Kork,Daun Penh,5.28,completed,20,91
+683,2025-10-13 16:00:00,Daun Penh,Russey Keo,5.79,completed,58,141
+684,2025-10-13 13:51:00,Sen Sok,Daun Penh,2.5,completed,89,289
+685,2025-10-13 08:21:00,Toul Kork,Sen Sok,2.94,cancelled_by_driver,57,218
+686,2025-10-13 03:49:00,Russey Keo,Toul Kork,4.49,completed,77,77
+687,2025-10-13 14:31:00,Chamkarmon,Russey Keo,7.97,completed,68,152
+688,2025-10-13 07:38:00,Chamkarmon,Russey Keo,5.81,completed,78,239
+689,2025-10-13 20:47:00,Chamkarmon,Sen Sok,6.92,completed,97,115
+690,2025-10-13 23:50:00,Russey Keo,Daun Penh,9.87,completed,92,94
+691,2025-10-13 18:03:00,Toul Kork,Toul Kork,8.03,completed,52,48
+692,2025-10-13 02:10:00,Russey Keo,Daun Penh,5.19,completed,37,191
+693,2025-10-13 06:55:00,Chamkarmon,Chamkarmon,5.29,completed,8,12
+694,2025-10-13 02:37:00,Sen Sok,Daun Penh,6.76,completed,44,156
+695,2025-10-13 15:36:00,Daun Penh,Russey Keo,7.16,completed,98,172
+696,2025-10-13 18:21:00,Russey Keo,Toul Kork,5.76,completed,5,296
+697,2025-10-13 22:12:00,Russey Keo,Daun Penh,6.98,completed,69,177
+698,2025-10-13 10:30:00,Toul Kork,Toul Kork,1.7,completed,31,57
+699,2025-10-13 21:37:00,Toul Kork,Toul Kork,5.15,cancelled_by_driver,45,203
+700,2025-10-13 21:04:00,Russey Keo,Chamkarmon,3.87,completed,9,185
+701,2025-10-13 07:36:00,Chamkarmon,Chamkarmon,2.6,cancelled_by_driver,32,121
+702,2025-10-13 20:51:00,Daun Penh,Russey Keo,2.35,completed,33,226
+703,2025-10-13 09:00:00,Toul Kork,Sen Sok,6.63,completed,67,202
+704,2025-10-13 07:07:00,Chamkarmon,Toul Kork,5.95,cancelled_by_driver,30,216
+705,2025-10-13 15:34:00,Sen Sok,Sen Sok,3.66,completed,76,43
+706,2025-10-13 07:52:00,Toul Kork,Russey Keo,5.5,cancelled_by_driver,29,23
+707,2025-10-13 15:07:00,Chamkarmon,Toul Kork,5.68,completed,3,155
+708,2025-10-13 14:38:00,Chamkarmon,Toul Kork,3.16,completed,90,186
+709,2025-10-13 13:31:00,Daun Penh,Sen Sok,7.04,cancelled_by_driver,57,249
+710,2025-10-13 09:07:00,Daun Penh,Daun Penh,8.14,completed,30,237
+711,2025-10-13 13:09:00,Sen Sok,Chamkarmon,8.23,completed,9,293
+712,2025-10-13 14:18:00,Chamkarmon,Daun Penh,6.62,completed,26,134
+713,2025-10-13 13:05:00,Chamkarmon,Sen Sok,5.85,cancelled_by_driver,2,22
+714,2025-10-13 10:39:00,Daun Penh,Chamkarmon,2.02,cancelled_by_driver,62,88
+715,2025-10-13 00:21:00,Toul Kork,Daun Penh,3.95,completed,3,153
+716,2025-10-13 14:05:00,Toul Kork,Chamkarmon,2.29,cancelled_by_driver,46,125
+717,2025-10-13 04:02:00,Russey Keo,Toul Kork,9.69,completed,68,79
+718,2025-10-13 15:25:00,Daun Penh,Daun Penh,2.65,completed,25,51
+719,2025-10-13 18:13:00,Russey Keo,Chamkarmon,2.79,completed,51,216
+720,2025-10-13 12:00:00,Daun Penh,Chamkarmon,9.06,completed,13,176
+721,2025-10-13 13:01:00,Sen Sok,Chamkarmon,9.52,completed,44,253
+722,2025-10-13 22:50:00,Chamkarmon,Daun Penh,8.01,completed,35,246
+723,2025-10-13 20:19:00,Sen Sok,Russey Keo,1.55,completed,55,227
+724,2025-10-13 21:56:00,Daun Penh,Daun Penh,1.51,completed,87,106
+725,2025-10-13 19:31:00,Chamkarmon,Sen Sok,4.71,completed,9,193
+726,2025-10-13 02:36:00,Toul Kork,Daun Penh,2.72,completed,2,36
+727,2025-10-13 03:34:00,Toul Kork,Chamkarmon,1.66,completed,61,204
+728,2025-10-13 12:38:00,Russey Keo,Toul Kork,5.44,cancelled_by_driver,41,267
+729,2025-10-13 05:54:00,Daun Penh,Daun Penh,9.52,cancelled_by_driver,44,268
+730,2025-10-13 11:26:00,Daun Penh,Daun Penh,4.25,completed,64,170
+731,2025-10-13 09:27:00,Toul Kork,Chamkarmon,7.12,cancelled_by_driver,31,39
+732,2025-10-13 13:11:00,Sen Sok,Toul Kork,7.04,completed,47,139
+733,2025-10-13 17:55:00,Chamkarmon,Toul Kork,3.63,completed,2,292
+734,2025-10-13 17:10:00,Sen Sok,Sen Sok,7.03,cancelled_by_driver,96,52
+735,2025-10-13 12:30:00,Sen Sok,Daun Penh,3.3,completed,82,287
+736,2025-10-13 19:44:00,Toul Kork,Toul Kork,2.54,cancelled_by_user,77,289
+737,2025-10-13 10:20:00,Toul Kork,Toul Kork,7.46,completed,69,141
+738,2025-10-13 21:31:00,Toul Kork,Russey Keo,2.46,cancelled_by_driver,58,146
+739,2025-10-13 01:42:00,Russey Keo,Russey Keo,9.97,completed,44,184
+740,2025-10-13 22:54:00,Sen Sok,Toul Kork,3.06,completed,74,152
+741,2025-10-13 15:42:00,Daun Penh,Sen Sok,6.55,completed,56,201
+742,2025-10-13 09:07:00,Chamkarmon,Toul Kork,5.0,completed,43,128
+743,2025-10-13 04:43:00,Russey Keo,Chamkarmon,2.57,completed,89,287
+744,2025-10-13 11:30:00,Daun Penh,Daun Penh,1.74,cancelled_by_user,34,253
+745,2025-10-13 04:40:00,Sen Sok,Sen Sok,6.79,completed,30,266
+746,2025-10-13 03:59:00,Toul Kork,Chamkarmon,8.36,completed,71,188
+747,2025-10-13 14:48:00,Sen Sok,Sen Sok,8.66,completed,70,230
+748,2025-10-13 12:33:00,Chamkarmon,Chamkarmon,5.6,completed,55,271
+749,2025-10-13 16:04:00,Russey Keo,Daun Penh,8.11,cancelled_by_driver,67,259
+750,2025-10-13 22:18:00,Russey Keo,Daun Penh,7.22,completed,13,299
+751,2025-10-13 12:46:00,Chamkarmon,Russey Keo,7.66,completed,3,198
+752,2025-10-13 13:56:00,Daun Penh,Chamkarmon,5.69,completed,26,56
+753,2025-10-13 02:09:00,Daun Penh,Russey Keo,6.88,completed,57,203
+754,2025-10-13 17:13:00,Russey Keo,Chamkarmon,8.35,cancelled_by_driver,24,271
+755,2025-10-13 09:35:00,Russey Keo,Russey Keo,4.88,completed,53,109
+756,2025-10-13 23:26:00,Toul Kork,Daun Penh,8.35,completed,70,116
+757,2025-10-13 19:45:00,Daun Penh,Sen Sok,6.53,cancelled_by_user,43,92
+758,2025-10-13 12:32:00,Chamkarmon,Russey Keo,2.91,cancelled_by_driver,60,138
+759,2025-10-13 02:57:00,Daun Penh,Chamkarmon,1.71,completed,58,57
+760,2025-10-13 20:37:00,Toul Kork,Chamkarmon,4.58,completed,49,50
+761,2025-10-13 19:11:00,Russey Keo,Daun Penh,6.15,completed,42,71
+762,2025-10-13 04:25:00,Russey Keo,Chamkarmon,8.64,completed,76,82
+763,2025-10-13 07:05:00,Toul Kork,Toul Kork,2.58,cancelled_by_driver,100,105
+764,2025-10-13 19:02:00,Chamkarmon,Sen Sok,8.3,completed,66,88
+765,2025-10-13 04:26:00,Russey Keo,Russey Keo,8.84,completed,11,2
+766,2025-10-13 22:01:00,Sen Sok,Sen Sok,2.78,completed,98,84
+767,2025-10-13 10:11:00,Russey Keo,Daun Penh,8.74,completed,90,43
+768,2025-10-13 02:05:00,Sen Sok,Russey Keo,9.93,completed,18,154
+769,2025-10-13 19:34:00,Toul Kork,Russey Keo,7.68,completed,85,94
+770,2025-10-13 08:57:00,Toul Kork,Toul Kork,8.17,completed,100,298
+771,2025-10-13 12:38:00,Russey Keo,Daun Penh,9.95,completed,52,133
+772,2025-10-13 02:41:00,Daun Penh,Chamkarmon,6.65,completed,46,65
+773,2025-10-13 00:03:00,Sen Sok,Toul Kork,4.12,completed,44,290
+774,2025-10-13 15:18:00,Chamkarmon,Toul Kork,8.62,completed,22,257
+775,2025-10-13 12:21:00,Russey Keo,Sen Sok,6.72,completed,53,213
+776,2025-10-13 14:14:00,Chamkarmon,Sen Sok,6.44,completed,59,148
+777,2025-10-13 19:02:00,Russey Keo,Sen Sok,3.66,completed,94,61
+778,2025-10-13 15:31:00,Daun Penh,Toul Kork,7.93,completed,30,149
+779,2025-10-13 04:11:00,Daun Penh,Chamkarmon,2.19,completed,8,88
+780,2025-10-13 08:39:00,Daun Penh,Russey Keo,9.36,cancelled_by_driver,98,278
+781,2025-10-13 21:44:00,Daun Penh,Sen Sok,4.27,cancelled_by_user,57,82
+782,2025-10-13 18:28:00,Toul Kork,Chamkarmon,2.59,completed,73,129
+783,2025-10-13 13:21:00,Toul Kork,Daun Penh,5.26,completed,20,286
+784,2025-10-13 06:08:00,Sen Sok,Sen Sok,1.86,cancelled_by_driver,25,280
+785,2025-10-13 07:14:00,Chamkarmon,Russey Keo,7.32,completed,19,270
+786,2025-10-13 17:34:00,Russey Keo,Daun Penh,9.17,completed,5,292
+787,2025-10-13 20:25:00,Russey Keo,Daun Penh,8.62,completed,75,203
+788,2025-10-13 16:06:00,Toul Kork,Russey Keo,2.58,cancelled_by_driver,79,24
+789,2025-10-13 19:25:00,Russey Keo,Sen Sok,2.57,completed,72,208
+790,2025-10-13 18:23:00,Toul Kork,Toul Kork,8.41,completed,83,280
+791,2025-10-13 03:35:00,Sen Sok,Russey Keo,9.36,completed,87,205
+792,2025-10-13 10:10:00,Chamkarmon,Russey Keo,5.42,cancelled_by_driver,27,152
+793,2025-10-13 03:40:00,Sen Sok,Russey Keo,5.74,completed,40,26
+794,2025-10-13 05:38:00,Daun Penh,Daun Penh,4.21,completed,96,194
+795,2025-10-13 20:51:00,Daun Penh,Chamkarmon,9.1,completed,26,238
+796,2025-10-13 11:20:00,Daun Penh,Toul Kork,6.98,completed,27,75
+797,2025-10-13 12:50:00,Sen Sok,Sen Sok,3.95,completed,62,163
+798,2025-10-13 04:16:00,Russey Keo,Sen Sok,4.04,completed,83,299
+799,2025-10-13 07:29:00,Chamkarmon,Chamkarmon,9.08,cancelled_by_driver,50,29
+800,2025-10-13 05:31:00,Daun Penh,Russey Keo,1.62,completed,42,165
+801,2025-10-13 04:56:00,Daun Penh,Toul Kork,4.24,completed,29,186
+802,2025-10-13 15:18:00,Daun Penh,Sen Sok,6.21,completed,39,54
+803,2025-10-13 06:09:00,Chamkarmon,Sen Sok,2.76,completed,60,295
+804,2025-10-13 15:10:00,Daun Penh,Russey Keo,2.28,completed,41,42
+805,2025-10-13 01:24:00,Chamkarmon,Chamkarmon,8.43,completed,33,285
+806,2025-10-13 03:24:00,Daun Penh,Toul Kork,9.1,completed,83,138
+807,2025-10-13 06:35:00,Sen Sok,Chamkarmon,8.5,completed,83,187
+808,2025-10-13 14:19:00,Sen Sok,Chamkarmon,9.14,completed,97,204
+809,2025-10-13 16:13:00,Chamkarmon,Toul Kork,6.2,cancelled_by_user,16,42
+810,2025-10-13 10:37:00,Sen Sok,Toul Kork,8.4,cancelled_by_user,23,288
+811,2025-10-13 10:41:00,Chamkarmon,Sen Sok,4.76,completed,7,26
+812,2025-10-13 17:23:00,Sen Sok,Sen Sok,7.16,completed,26,56
+813,2025-10-13 00:22:00,Sen Sok,Toul Kork,9.91,completed,96,253
+814,2025-10-13 08:11:00,Chamkarmon,Daun Penh,3.42,cancelled_by_driver,12,122
+815,2025-10-13 19:38:00,Russey Keo,Sen Sok,4.81,completed,72,106
+816,2025-10-13 14:28:00,Sen Sok,Daun Penh,5.58,cancelled_by_user,5,130
+817,2025-10-13 08:05:00,Daun Penh,Toul Kork,2.67,completed,92,158
+818,2025-10-13 21:43:00,Russey Keo,Sen Sok,2.19,cancelled_by_user,69,231
+819,2025-10-13 18:32:00,Chamkarmon,Chamkarmon,8.55,cancelled_by_driver,49,91
+820,2025-10-13 06:21:00,Russey Keo,Toul Kork,9.8,cancelled_by_driver,26,22
+821,2025-10-13 15:29:00,Toul Kork,Russey Keo,4.94,completed,5,290
+822,2025-10-13 14:17:00,Toul Kork,Daun Penh,2.25,completed,22,110
+823,2025-10-13 09:37:00,Sen Sok,Toul Kork,2.06,completed,79,49
+824,2025-10-13 08:48:00,Sen Sok,Toul Kork,9.08,completed,13,129
+825,2025-10-13 08:14:00,Daun Penh,Sen Sok,5.44,completed,28,73
+826,2025-10-13 14:48:00,Russey Keo,Sen Sok,4.22,completed,33,53
+827,2025-10-13 10:37:00,Toul Kork,Sen Sok,5.55,completed,23,168
+828,2025-10-13 19:57:00,Sen Sok,Russey Keo,4.21,completed,97,45
+829,2025-10-13 16:04:00,Russey Keo,Sen Sok,5.66,completed,18,105
+830,2025-10-13 01:40:00,Sen Sok,Toul Kork,8.81,completed,30,150
+831,2025-10-13 15:21:00,Sen Sok,Sen Sok,6.53,cancelled_by_user,26,146
+832,2025-10-13 06:30:00,Toul Kork,Chamkarmon,7.4,completed,16,204
+833,2025-10-13 14:13:00,Toul Kork,Sen Sok,4.6,completed,77,299
+834,2025-10-13 16:19:00,Sen Sok,Russey Keo,7.78,completed,39,167
+835,2025-10-13 05:32:00,Chamkarmon,Chamkarmon,7.17,cancelled_by_driver,33,201
+836,2025-10-13 10:57:00,Sen Sok,Toul Kork,2.52,completed,26,134
+837,2025-10-13 04:34:00,Sen Sok,Toul Kork,6.37,completed,48,211
+838,2025-10-13 01:15:00,Daun Penh,Daun Penh,3.68,completed,65,48
+839,2025-10-13 09:05:00,Daun Penh,Chamkarmon,8.33,completed,38,126
+840,2025-10-13 08:42:00,Daun Penh,Daun Penh,5.12,completed,2,239
+841,2025-10-13 23:53:00,Chamkarmon,Chamkarmon,9.95,cancelled_by_user,6,7
+842,2025-10-13 10:42:00,Chamkarmon,Chamkarmon,2.29,cancelled_by_user,46,272
+843,2025-10-13 08:00:00,Sen Sok,Russey Keo,8.13,completed,50,37
+844,2025-10-13 13:55:00,Daun Penh,Daun Penh,7.23,completed,38,211
+845,2025-10-13 02:07:00,Chamkarmon,Russey Keo,8.02,completed,88,165
+846,2025-10-13 23:04:00,Toul Kork,Chamkarmon,4.11,completed,18,125
+847,2025-10-13 15:14:00,Sen Sok,Toul Kork,5.68,completed,27,192
+848,2025-10-13 18:06:00,Russey Keo,Chamkarmon,8.27,completed,41,218
+849,2025-10-13 04:05:00,Sen Sok,Russey Keo,3.48,cancelled_by_user,72,214
+850,2025-10-13 09:49:00,Russey Keo,Daun Penh,3.42,cancelled_by_user,92,62
+851,2025-10-13 10:08:00,Daun Penh,Daun Penh,6.18,completed,74,161
+852,2025-10-13 19:43:00,Russey Keo,Russey Keo,5.95,completed,17,66
+853,2025-10-13 00:01:00,Daun Penh,Daun Penh,3.9,completed,62,286
+854,2025-10-13 07:13:00,Toul Kork,Sen Sok,4.03,completed,29,239
+855,2025-10-13 23:32:00,Russey Keo,Toul Kork,3.86,completed,58,20
+856,2025-10-13 11:23:00,Sen Sok,Toul Kork,8.06,completed,70,188
+857,2025-10-13 09:10:00,Daun Penh,Toul Kork,7.04,cancelled_by_driver,78,82
+858,2025-10-13 02:52:00,Sen Sok,Daun Penh,8.58,completed,22,202
+859,2025-10-13 23:22:00,Chamkarmon,Daun Penh,9.79,completed,6,132
+860,2025-10-13 00:28:00,Daun Penh,Chamkarmon,5.53,completed,26,37
+861,2025-10-13 17:41:00,Russey Keo,Chamkarmon,2.07,completed,39,132
+862,2025-10-13 18:26:00,Daun Penh,Toul Kork,1.91,completed,12,77
+863,2025-10-13 05:50:00,Sen Sok,Sen Sok,4.01,completed,99,89
+864,2025-10-13 16:07:00,Toul Kork,Chamkarmon,9.43,completed,14,253
+865,2025-10-13 02:13:00,Daun Penh,Chamkarmon,5.95,completed,22,194
+866,2025-10-13 06:10:00,Russey Keo,Daun Penh,3.81,completed,51,176
+867,2025-10-13 18:54:00,Chamkarmon,Sen Sok,4.89,cancelled_by_user,23,33
+868,2025-10-13 20:45:00,Toul Kork,Toul Kork,6.59,completed,48,58
+869,2025-10-13 14:36:00,Chamkarmon,Chamkarmon,7.05,completed,71,201
+870,2025-10-13 12:09:00,Daun Penh,Sen Sok,2.81,completed,50,28
+871,2025-10-13 03:49:00,Sen Sok,Sen Sok,9.8,completed,89,35
+872,2025-10-13 01:30:00,Sen Sok,Toul Kork,6.13,completed,13,125
+873,2025-10-13 02:49:00,Russey Keo,Sen Sok,2.65,cancelled_by_user,85,42
+874,2025-10-13 05:27:00,Sen Sok,Sen Sok,9.1,cancelled_by_driver,10,85
+875,2025-10-13 08:12:00,Toul Kork,Sen Sok,2.13,completed,55,188
+876,2025-10-13 09:08:00,Sen Sok,Chamkarmon,9.22,completed,9,111
+877,2025-10-13 08:18:00,Russey Keo,Toul Kork,9.97,completed,79,271
+878,2025-10-13 05:44:00,Daun Penh,Sen Sok,7.45,completed,52,105
+879,2025-10-13 12:14:00,Daun Penh,Sen Sok,8.05,cancelled_by_driver,2,41
+880,2025-10-13 19:48:00,Sen Sok,Chamkarmon,4.37,completed,25,215
+881,2025-10-13 06:42:00,Chamkarmon,Toul Kork,9.5,completed,13,71
+882,2025-10-13 22:37:00,Daun Penh,Daun Penh,6.0,completed,98,56
+883,2025-10-13 20:57:00,Sen Sok,Chamkarmon,7.73,completed,51,236
+884,2025-10-13 03:52:00,Russey Keo,Toul Kork,9.35,cancelled_by_user,58,281
+885,2025-10-13 18:52:00,Sen Sok,Sen Sok,9.79,completed,34,105
+886,2025-10-13 13:47:00,Daun Penh,Toul Kork,8.58,cancelled_by_driver,35,162
+887,2025-10-13 13:35:00,Russey Keo,Toul Kork,4.08,completed,3,191
+888,2025-10-13 09:23:00,Sen Sok,Toul Kork,9.72,cancelled_by_driver,59,9
+889,2025-10-13 12:01:00,Toul Kork,Daun Penh,6.84,completed,70,60
+890,2025-10-13 09:31:00,Russey Keo,Toul Kork,9.41,completed,48,225
+891,2025-10-13 12:57:00,Toul Kork,Daun Penh,7.25,cancelled_by_driver,64,188
+892,2025-10-13 15:04:00,Chamkarmon,Sen Sok,4.11,completed,19,70
+893,2025-10-13 16:10:00,Russey Keo,Daun Penh,4.65,completed,67,293
+894,2025-10-13 12:46:00,Toul Kork,Sen Sok,6.18,completed,82,287
+895,2025-10-13 17:18:00,Daun Penh,Sen Sok,8.22,completed,73,169
+896,2025-10-13 03:23:00,Daun Penh,Daun Penh,4.2,completed,76,62
+897,2025-10-13 05:05:00,Chamkarmon,Chamkarmon,6.43,cancelled_by_user,5,14
+898,2025-10-13 19:38:00,Russey Keo,Russey Keo,4.44,completed,67,164
+899,2025-10-13 07:44:00,Russey Keo,Toul Kork,8.43,completed,11,245
+900,2025-10-13 00:32:00,Russey Keo,Russey Keo,5.47,cancelled_by_driver,94,8
+901,2025-10-13 03:41:00,Chamkarmon,Toul Kork,2.15,completed,68,154
+902,2025-10-13 05:22:00,Russey Keo,Toul Kork,2.91,cancelled_by_driver,69,36
+903,2025-10-13 22:58:00,Daun Penh,Sen Sok,2.02,cancelled_by_user,1,48
+904,2025-10-13 13:45:00,Toul Kork,Toul Kork,5.74,completed,91,85
+905,2025-10-13 22:23:00,Daun Penh,Toul Kork,2.4,completed,92,28
+906,2025-10-13 13:48:00,Daun Penh,Daun Penh,2.47,completed,63,196
+907,2025-10-13 11:30:00,Toul Kork,Russey Keo,9.5,completed,29,208
+908,2025-10-13 07:31:00,Daun Penh,Daun Penh,8.92,cancelled_by_driver,82,204
+909,2025-10-13 14:33:00,Chamkarmon,Toul Kork,5.34,completed,12,104
+910,2025-10-13 03:20:00,Toul Kork,Sen Sok,9.88,completed,77,230
+911,2025-10-13 21:33:00,Daun Penh,Daun Penh,1.5,completed,41,101
+912,2025-10-13 19:54:00,Sen Sok,Daun Penh,6.72,cancelled_by_driver,2,29
+913,2025-10-13 07:37:00,Daun Penh,Chamkarmon,6.74,completed,37,127
+914,2025-10-13 22:52:00,Chamkarmon,Toul Kork,5.39,completed,45,10
+915,2025-10-13 19:48:00,Russey Keo,Sen Sok,4.87,completed,80,106
+916,2025-10-13 15:59:00,Daun Penh,Daun Penh,5.37,cancelled_by_driver,48,167
+917,2025-10-13 02:55:00,Russey Keo,Daun Penh,5.03,completed,24,257
+918,2025-10-13 11:28:00,Sen Sok,Sen Sok,7.71,completed,99,295
+919,2025-10-13 12:08:00,Daun Penh,Toul Kork,2.65,completed,22,277
+920,2025-10-13 05:34:00,Toul Kork,Chamkarmon,3.18,completed,100,65
+921,2025-10-13 01:55:00,Russey Keo,Daun Penh,3.03,completed,11,271
+922,2025-10-13 18:38:00,Sen Sok,Chamkarmon,3.73,cancelled_by_user,58,188
+923,2025-10-13 02:55:00,Toul Kork,Russey Keo,5.96,completed,46,138
+924,2025-10-13 14:15:00,Toul Kork,Toul Kork,2.45,completed,29,105
+925,2025-10-13 22:28:00,Toul Kork,Russey Keo,8.88,completed,35,34
+926,2025-10-13 21:01:00,Toul Kork,Russey Keo,4.03,completed,15,110
+927,2025-10-13 06:39:00,Daun Penh,Russey Keo,2.88,cancelled_by_driver,60,33
+928,2025-10-13 20:26:00,Daun Penh,Toul Kork,7.24,completed,95,231
+929,2025-10-13 00:00:00,Daun Penh,Toul Kork,1.82,completed,42,266
+930,2025-10-13 00:25:00,Sen Sok,Sen Sok,6.77,completed,43,182
+931,2025-10-13 14:27:00,Sen Sok,Chamkarmon,7.43,completed,80,65
+932,2025-10-13 08:45:00,Sen Sok,Chamkarmon,3.33,completed,74,1
+933,2025-10-13 09:16:00,Chamkarmon,Sen Sok,1.86,completed,49,133
+934,2025-10-13 13:32:00,Sen Sok,Sen Sok,4.59,completed,64,80
+935,2025-10-13 04:36:00,Daun Penh,Russey Keo,2.34,completed,32,271
+936,2025-10-13 05:04:00,Daun Penh,Sen Sok,2.49,completed,64,241
+937,2025-10-13 11:37:00,Chamkarmon,Daun Penh,3.66,completed,2,28
+938,2025-10-13 18:06:00,Chamkarmon,Chamkarmon,4.01,cancelled_by_user,24,223
+939,2025-10-13 14:52:00,Sen Sok,Sen Sok,6.0,completed,87,23
+940,2025-10-13 07:08:00,Russey Keo,Daun Penh,7.27,cancelled_by_driver,66,109
+941,2025-10-13 10:19:00,Chamkarmon,Daun Penh,6.54,completed,38,107
+942,2025-10-13 04:05:00,Toul Kork,Daun Penh,2.76,completed,31,145
+943,2025-10-13 01:47:00,Daun Penh,Daun Penh,2.96,completed,26,139
+944,2025-10-13 18:47:00,Toul Kork,Russey Keo,8.97,completed,29,284
+945,2025-10-13 06:22:00,Daun Penh,Daun Penh,6.25,completed,67,298
+946,2025-10-13 04:15:00,Daun Penh,Russey Keo,8.89,cancelled_by_user,78,99
+947,2025-10-13 16:35:00,Chamkarmon,Russey Keo,4.66,completed,25,123
+948,2025-10-13 14:49:00,Chamkarmon,Daun Penh,6.72,completed,48,287
+949,2025-10-13 15:11:00,Toul Kork,Chamkarmon,5.95,completed,65,81
+950,2025-10-13 05:29:00,Daun Penh,Daun Penh,4.21,completed,53,10
+951,2025-10-13 05:35:00,Toul Kork,Daun Penh,5.49,completed,67,8
+952,2025-10-13 05:17:00,Russey Keo,Daun Penh,5.77,completed,90,205
+953,2025-10-13 04:10:00,Toul Kork,Chamkarmon,3.21,cancelled_by_driver,18,197
+954,2025-10-13 15:44:00,Sen Sok,Toul Kork,4.18,cancelled_by_user,9,198
+955,2025-10-13 20:21:00,Toul Kork,Toul Kork,8.23,completed,38,30
+956,2025-10-13 17:23:00,Sen Sok,Russey Keo,9.28,completed,87,20
+957,2025-10-13 19:00:00,Sen Sok,Russey Keo,4.56,cancelled_by_user,21,48
+958,2025-10-13 09:42:00,Sen Sok,Chamkarmon,4.11,cancelled_by_driver,65,130
+959,2025-10-13 15:41:00,Russey Keo,Sen Sok,3.16,completed,21,293
+960,2025-10-13 08:30:00,Toul Kork,Toul Kork,7.27,cancelled_by_user,27,132
+961,2025-10-13 12:36:00,Toul Kork,Russey Keo,4.25,completed,70,54
+962,2025-10-13 11:33:00,Russey Keo,Toul Kork,9.9,cancelled_by_user,44,281
+963,2025-10-13 04:14:00,Daun Penh,Chamkarmon,4.27,completed,100,265
+964,2025-10-13 09:17:00,Chamkarmon,Chamkarmon,4.85,completed,28,215
+965,2025-10-13 23:07:00,Toul Kork,Sen Sok,6.63,cancelled_by_driver,45,290
+966,2025-10-13 05:57:00,Chamkarmon,Sen Sok,8.31,completed,17,43
+967,2025-10-13 03:12:00,Russey Keo,Chamkarmon,5.49,completed,40,74
+968,2025-10-13 10:02:00,Daun Penh,Russey Keo,5.09,completed,3,278
+969,2025-10-13 18:58:00,Daun Penh,Toul Kork,9.96,cancelled_by_user,76,242
+970,2025-10-13 13:58:00,Daun Penh,Daun Penh,1.59,cancelled_by_driver,76,130
+971,2025-10-13 16:20:00,Russey Keo,Sen Sok,9.11,completed,66,194
+972,2025-10-13 04:33:00,Sen Sok,Daun Penh,2.77,completed,46,32
+973,2025-10-13 14:51:00,Sen Sok,Russey Keo,8.18,cancelled_by_driver,86,106
+974,2025-10-13 07:45:00,Chamkarmon,Sen Sok,6.75,completed,87,204
+975,2025-10-13 20:01:00,Sen Sok,Daun Penh,4.41,completed,30,1
+976,2025-10-13 15:06:00,Sen Sok,Russey Keo,8.93,completed,69,245
+977,2025-10-13 04:46:00,Daun Penh,Toul Kork,1.61,completed,9,72
+978,2025-10-13 01:33:00,Daun Penh,Russey Keo,3.43,completed,85,15
+979,2025-10-13 01:01:00,Chamkarmon,Sen Sok,6.32,completed,11,53
+980,2025-10-13 08:54:00,Toul Kork,Chamkarmon,4.49,completed,69,8
+981,2025-10-13 06:22:00,Chamkarmon,Toul Kork,6.69,cancelled_by_driver,99,46
+982,2025-10-13 15:30:00,Chamkarmon,Daun Penh,1.7,completed,91,114
+983,2025-10-13 11:59:00,Russey Keo,Sen Sok,2.49,completed,66,147
+984,2025-10-13 06:23:00,Russey Keo,Chamkarmon,2.58,completed,88,166
+985,2025-10-13 03:34:00,Chamkarmon,Russey Keo,3.11,completed,31,139
+986,2025-10-13 03:03:00,Chamkarmon,Chamkarmon,5.4,completed,33,117
+987,2025-10-13 20:45:00,Chamkarmon,Sen Sok,7.89,cancelled_by_driver,39,299
+988,2025-10-13 05:50:00,Sen Sok,Sen Sok,9.2,completed,94,276
+989,2025-10-13 15:38:00,Russey Keo,Chamkarmon,8.6,cancelled_by_user,46,277
+990,2025-10-13 19:27:00,Chamkarmon,Russey Keo,3.17,completed,37,178
+991,2025-10-13 14:44:00,Daun Penh,Chamkarmon,5.25,completed,92,154
+992,2025-10-13 20:37:00,Daun Penh,Sen Sok,3.19,completed,60,201
+993,2025-10-13 09:25:00,Sen Sok,Sen Sok,3.75,cancelled_by_user,31,115
+994,2025-10-13 22:56:00,Sen Sok,Daun Penh,5.78,cancelled_by_driver,11,159
+995,2025-10-13 03:11:00,Toul Kork,Daun Penh,2.08,completed,87,42
+996,2025-10-13 02:27:00,Toul Kork,Toul Kork,3.35,completed,2,247
+997,2025-10-13 15:48:00,Toul Kork,Sen Sok,9.45,completed,27,68
+998,2025-10-13 22:37:00,Sen Sok,Daun Penh,5.46,completed,99,196
+999,2025-10-13 19:24:00,Sen Sok,Chamkarmon,5.29,completed,2,90
+1000,2025-10-13 01:50:00,Sen Sok,Russey Keo,1.62,cancelled_by_driver,21,111
