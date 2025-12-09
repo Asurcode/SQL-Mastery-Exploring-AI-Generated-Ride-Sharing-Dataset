@@ -20,3 +20,11 @@ Data is completely fake but statistically realistic — perfect for practising w
 - Drivers cancel ~1.7× more trips than riders
 - Cancellation rate is almost identical (24–25 %) in every single zone 
 - Average completed fare = $5.74
+## Sample results
+<img width="190" height="91" alt="image" src="https://github.com/user-attachments/assets/1ffd848a-a053-4ebf-8b2a-e3ead53cb489" />
+<img width="399" height="87" alt="image" src="https://github.com/user-attachments/assets/19a1666c-692c-449e-9342-bb014bb28be4" />
+<img width="162" height="72" alt="image" src="https://github.com/user-attachments/assets/225384b0-e1ff-4e44-8724-47cacbc87645" />
+<img width="274" height="135" alt="image" src="https://github.com/user-attachments/assets/bd558ed8-c7e6-47fb-8f1d-066eee2944f8" />
+
+
+
